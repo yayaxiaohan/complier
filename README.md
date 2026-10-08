@@ -2,7 +2,7 @@
 
 This repository publishes the verified density-aware K=7 clustering of 287 generated Simulink C programs.
 
-Open [`results/codesage_k7_density/analysis/index.html`](results/codesage_k7_density/analysis/index.html) to view the 2D plot and the per-cluster analysis together.
+Open the [combined HTML preview](https://htmlpreview.github.io/?https://github.com/yayaxiaohan/complier/blob/main/results/codesage_k7_density/analysis/index.html) to view the 2D plot and per-cluster analysis together. The local entry file is [analysis/index.html](results/codesage_k7_density/analysis/index.html).
 
 The package contains:
 
@@ -10,9 +10,9 @@ The package contains:
 - PCA32 and K-means K=7 model parameters;
 - all program assignments, 10-nearest-neighbor density distances, metrics, and member lists;
 - three declared low-density points, excluded from cluster-prior estimation;
-- a frozen top-30-by-density selection per cluster for initial probabilities.
+- historical Top-30 and Top-15 density-selection evidence.
 
-The global optimizer prior still requires all 287 programs. Cluster-specific priors use the densest `min(30, n_c)` core members, yielding counts `[30, 6, 26, 18, 22, 30, 30]` and 162 contributors total. Selection uses ascending 10-nearest-neighbor distance and exact program ID as the tie-break.
+The prior-selection policies in this published package are historical snapshots, not the current training design. They do not establish completed probability fitting or optimizer performance.
 
 Run the integrity and semantic checks with:
 

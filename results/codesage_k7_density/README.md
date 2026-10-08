@@ -7,6 +7,8 @@
 - Density rule: 10-nearest-neighbor distance; noise threshold `median + 3*MAD`
 - Core cluster sizes: `[67, 6, 26, 18, 22, 95, 50]`
 - Noise count: 3
-- Active cluster-prior selected counts: `[15, 6, 15, 15, 15, 15, 15]` (96 contributors)
+- Historical Top-15 selected counts: `[15, 6, 15, 15, 15, 15, 15]` (96 contributors)
 
-`analysis/index.html` combines the 2D view, per-cluster metrics, and the active Top-15 prior-selection analysis. The global prior still uses all 287 programs. Cluster priors use the 96 density-selected contributors recorded in `data/top15_cluster_prior_selection.json`; the earlier Top-30 artifact remains as historical evidence.
+`analysis/index.html` combines the published 2D view, per-cluster metrics and historical Top-15 selection in one self-contained page. The Top-15 and earlier Top-30 policies are archived stages, not the current training design or completed fitted probabilities. Numerical source assets are preserved unchanged.
+
+[Open the combined HTML preview](https://htmlpreview.github.io/?https://github.com/yayaxiaohan/complier/blob/main/results/codesage_k7_density/analysis/index.html).
