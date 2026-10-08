@@ -1,0 +1,288 @@
+program,cluster,density_distance,noise_flag
+102054_Three Phase Grid Connected Inverter,2,0.5975570340359427,False
+104120_DESIGN OF DC MICROGRID,6,0.26088407515736034,False
+104295_uncertain dual arm robots controller,5,0.6027335527077512,False
+104370_DC dc and AC dc converters grid connected,0,0.4024081762227016,False
+107105_Closed_loop_three_phase_VSI_Inverter.slx,4,0.7018617926938313,False
+109059_PMSM Wind Turbine,5,0.6102236139884287,False
+109510_Single-Phase Grid Connected DC-AC Inverter,5,0.6835889718399027,False
+111090_Single phase DC - AC Matrix converter fed IM drive,5,0.6219361454448719,False
+111315_5 Level Diode clamped Inverter,6,0.4114142631337631,False
+115035_Induction Motor Protection,0,0.6839627733927299,False
+117350_Full thermal network model of the SMOG-1 picosatel,5,0.6508884281293816,False
+121957_Converter control mode change,0,0.5252548488639521,False
+122537_Three-level NPC inverter in MATLAB_Simulink,0,0.37888192729052245,False
+124180_DC motor position control using type E chopper,5,0.5532214991713079,False
+125595_Three Phase Five Level Neutral Point Clamped Conve,6,0.2946856374344064,False
+126070_D-STATCOM Harmonic Compensation and Unity PF opera,5,0.5848999410706645,False
+126085_DSTATCOM IRPT theory Neutral Current and Load Unba,0,0.5236894868911073,False
+126095_ZERO VOLTAGE REGULATION DSTATCOM using IRPT,5,0.47281871245602997,False
+126330_Compensation by a D-STATCOM in d-q frame of a line,6,0.18034141357108766,False
+129809_Pitch-rate-controller-for-aircraft,5,0.5473116193142333,False
+130104_Island Microgrid Wind Turbine 150 kW,5,0.6835152118362872,False
+131024_Wavelet Transformer Based power system fault Detec,0,0.42104581498245125,False
+131209_PFC boost,5,0.6690892771537362,False
+131394_abc to alphaBetaGamma_dq Conversion,5,0.6026656450609537,False
+132458_Three Phase Transformer Open Circuit Test,4,0.6195976989975331,False
+132463_Three Phase Transformer Short Circuit Test,4,0.5741601782555554,False
+134641_Cascaded 5-level Multi_level Inverter,2,0.6306494612638922,False
+134711_Open loop control of three-phase induction motor,5,0.5933281873562157,False
+135241_EV AC Charger Load Double Tuned Harmonic Filter,0,0.4804397422102436,False
+136409_V_f _control of Induction motor_SLIP regulation_Mo,5,0.6014673129717825,False
+155787_Transformer Differential Protection,0,0.43810685804645183,False
+158736_Harmonic Benchmark Test System,6,0.17981435024837986,False
+161061_VSG grid connected simulation with no load,5,0.5636962225749136,False
+161276_Virtual_synchronous_generator_control,0,0.45161403541874684,False
+168146_PFC with hysterisis control,5,0.6840045182965969,False
+171989_Wind solar microgrid,6,0.35332566044743235,False
+174025_Voltage Source Inverter,0,0.4260400200347365,False
+174470_PLL based boost Power Factor Correction PFC,5,0.7112706735716053,False
+174730_speed control of PMSM using hybrid multilevel inve,5,0.6278853689910359,False
+174815_SEPIC Power Factor Correction PFC,5,0.6873597441343934,False
+174890_Totem Pole Power Factor Correction PFC,5,0.6642607618681664,False
+175378_Three phase active front end PFC,4,0.6311392374724686,False
+175893_Speed control of SPMSM,5,0.6602821414993195,False
+176223_Closed loop control of Buck Boost PFC,5,0.6846066589507396,False
+180915_pe-proj,2,0.5611153432457516,False
+180920_Closed loop of AC voltage controller,5,0.6739443802343893,False
+180928_Unbalance operation of induction motor with Genera,5,0.5330883513824568,False
+180933_Boost converter with neural network control,0,0.5436371706394489,False
+180935_Closed loop control of boost converter with VSI,2,0.6108138291904195,False
+180954_Armature_field control of DC motor with chopper _,5,0.7182936603133986,False
+180971_Open and closed loop of LLC converter,0,0.6067021236010467,False
+180983_Two-Area Fuzzy Load Frequency Controller in Simuli,5,0.7128022423441118,False
+180989_Dynamic braking of three phase induction motor,5,0.5550293279398945,False
+181057_Braking of induction motor based on plugging,5,0.6010358224383981,False
+181060_Speed control of three phase induction motor based,2,0.7045354369342601,False
+181067_Multi-phase induction motor,0,0.430041263258885,False
+181068_Multi-pulse rectifier,0,0.6347652828688036,False
+181069_Nine switch inverter,2,0.5203287102608294,False
+181073_Open-circuit test of three-phase transformer,4,0.5920982317932211,False
+181076_Parallel phases of voltage source inverter,0,0.5455616331324389,False
+181082_Plugging of induction motor,5,0.5495833117968629,False
+181084_Single-phase half-wave controlled rectifier,5,0.6155854036118397,False
+181110_Simplified split source inverter,6,0.330526632325379,False
+181114_Split source inverter,2,0.46753835561143336,False
+181116_T-type inverter,2,0.5133751694005652,False
+181117_Star-delta starting of induction motor,5,0.4712909404442888,False
+181140_aaa,5,0.6464203987578925,False
+181197_Twelve switch split source inverter,6,0.2149284494673278,False
+181198_Nine switch split source inverter,6,0.3191767636226362,False
+181207_PV System with SEPIC Converter,0,0.5499686781131745,False
+181275_Closed loop boost converter with voltage source in,2,0.5981926011284452,False
+181276_closed loop boost converter with VSI and transform,2,0.5579033493789674,False
+181405_Vienna rectifier,0,0.5645717132912002,False
+181486_Speed_control_2Phase_Steppermotor_Permanent magnet,4,0.6574081020122096,False
+181700_dual active bridge converter with half bridge conf,5,0.5694416589052391,False
+181915_Power factor correction techniques for AC to DC sy,0,0.5233024325157882,False
+182238_Model of operation modes for vertical mine lifts,5,0.5994440937352326,False
+182311_Low-THD Three-Leg Inverter with Variable Modulatio,2,0.5607483810863494,False
+182773_12-Pulse Converter for HVDC Transmission Line,6,0.20539573631949806,False
+182881_Closed-Loop Control of Single-Phase Grid Inverter,5,0.6557569316358959,False
+182931_Grid Following Solar PV Array with Inverter Contro,2,0.6289984059585836,False
+182954_Active Power Factor Correction Using Boost Convert,5,0.652849131769662,False
+182976_Sheppard Taylor Power Factor Correction,0,0.5414444576016565,False
+183076_Closed Loop Flyback Converter,0,0.44406821617474573,False
+183186_Selective Harmonic Elimination,0,0.437972331641033,False
+183244_Flying Capacitor Multilevel converter,6,0.26198447154964183,False
+183271_PFC Based EV Charger With Controlled Battery Charg,6,0.3650263419081395,False
+183282_Solar Fed Dual Active Bridge Converter with MPPT,0,0.47995564047590394,False
+18812_Nodose neuron action potential firing,5,0.7376745989188584,False
+20711_Ventricular guinea-pig action potential,5,0.6983071181681951,False
+2412_Herr Klaus,5,0.6738010328650276,False
+24396_Inversor de dois Niveis com modulação por largura,5,0.6656783345747007,False
+26013_HEARTVI1 WITH SIMULINK NEW BLOCK LIBRARY,3,0.27447541348322774,False
+26037_Annihilation Of Cardiac Rythm And Sudden Death,3,0.2659310945706854,False
+26298_Sinusal Stimulation Of HEARTVI19 Simulink And Arrh,3,0.4182598959925031,False
+26402_HEART VI1 SIMULATOR SIMULINK-Version 10,3,0.31036989893461975,False
+26438_HEART VI1 SIMULATOR-INVESTIGATION 12-MONITORING,3,0.28951339862399483,False
+26460_HeartVI1 Simulink Investigation 17-Monitoring,3,0.3123212743862233,False
+26462_Heart VI1 Simulator Simulink in Investigation 19_M,3,0.3891083027264063,False
+26463_Heart Vi1 Simulator Simulink Investigation 20-Moni,3,0.26081659703813703,False
+26464_Heart Vi1 Simulator Simulink in Investigation 21-M,3,0.2978088850065484,False
+26465_Heart VI1 Simulator Simulink Investigation 22-Moni,3,0.3650791366453122,False
+26561_Global Heart VI1 -Simulink-Monitoring-And CompiLin,3,0.47715561605180695,False
+26578_REENTRANCE VI1 Wuth Heart vI1 Simulator Simulink,1,0.8602159118165502,True
+26579_Problems Of Compiling ProcessorHeart VI1 somulator,3,0.5742052630201877,False
+26601_Reentrance VI1-Heart VI1 Simulator Simulink,1,0.8411823863384953,False
+26705_Le simulateur cardiaque VI1 simulink-monitoring N°,3,0.3343991926463237,False
+26735_Investigation 6 de Reentrance du simulateur cardia,1,0.8252215176942561,False
+26912_HeartVI1 Simulator Simulink Investigation 27,3,0.3350663603107681,False
+26913_Reentrance Problems of Heart VI1 simulator simulin,1,0.7972416353083747,False
+27247_Single Phase Cycloconverter,0,0.6146206556846198,False
+27313_Three level three phase diode clamped SPWM inverte,6,0.29972187195237254,False
+27334_HEART VI1 Simulator Simulink Investigation 28,3,0.3041655435467308,False
+27335_Heart VI1 simulator simulink Reentrance investigat,1,0.8347387267269056,False
+27362_Single Phase to Single Phase Step down Cycloconver,0,0.5855250373728842,False
+27372_Five Level three phase Sinusoidal PWM based Diode,6,0.1565668414049266,False
+27373_Modified Sinusoidal PWM based Inverter,5,0.6865489394368242,False
+27410_Step Up Cycloconverter,0,0.6119183169376332,False
+27420_Boost Converter -- Close Loop,5,0.7317793376300562,False
+27686_Sinosoidal PWM based three phase inverter -- Sawto,5,0.8042781088058143,False
+29839_HeartVI1-30 Blocks Simulink,3,0.41956550422473077,False
+29840_Reentrance VI1-10 Heart Vi1 Block Simulink,1,0.8471761645708495,False
+29850_Reentrance VI1-file 11,1,0.8552498940477178,True
+29868_Heart VI1-block simulink-N°33,3,0.45061277069814454,False
+29869_Reentrance VI1 Heart VI1 block simulink-N°13,1,0.8257413733589168,False
+29902_Heart VI1 Block Simulink-file 36,3,0.402849358974807,False
+30241_Three Phase Sinusoidal PWM,5,0.8602980639504394,True
+30503_Space vector PWM for 3 leg inverters,5,0.7044857710923328,False
+30528_Carrier Wave 3 leg inverter,5,0.67525736358492,False
+32281_Controllable Inverter_,2,0.5130734235124212,False
+32590_12 pulse Rectifier,0,0.5538502007327587,False
+32983_Space Vector Pulse Width Modulation Based Three Ph,4,0.7286654399401995,False
+33738_Hybrid 31Level Inverter,5,0.510559730022282,False
+33741_Three phase 27Level inverter with Single DC source,6,0.192270282657214,False
+35844_SVPWM based speed control of PMSM with  3-level In,0,0.533355841784211,False
+35911_SVPWM based speed control of Induction Motor with,0,0.537800416865152,False
+35963_IEEE 1459-2000,5,0.5982213956636061,False
+35966_Simulink model of SPWM based single phase inverter,2,0.553603205205536,False
+36334_A New 81 Level inverter,0,0.3553059563788178,False
+36691_1-Phase to 3-Phase Power Conversion using SPWM con,4,0.5247453837742915,False
+36722_3-phase Induction Motor Drive,6,0.4006063493693626,False
+37124_Three Phase SPWM,4,0.5958631962316391,False
+37756_3PHASE BRIDGE INVERTER 120 DEGREE MODE,2,0.5527788287020642,False
+38020_Multilevel inverter with reverse voltage technique,0,0.6307526383533345,False
+38021_Single stage high power factor AC-DC converter,0,0.4385789969247322,False
+38045_non   isolated dc dc zvzcs converter,0,0.5289265859873259,False
+38267_Speed Control Of DC motor using 3phase fully contr,4,0.6325513499051458,False
+38292_Z source Multi level inverter,6,0.3345090132187078,False
+"38348_Three phase Stacom, Active front end rectifier and",4,0.5462734901083547,False
+38804_PMSM simulation,5,0.687644426727029,False
+38820_Sinusoidal Buck Boost AC Voltage Controller,0,0.6812432550995545,False
+39404_Induction Motor connected through Matrix converter,4,0.6436319898569779,False
+39410_Closed loop V_F based speed control of Induction M,6,0.39190003705990994,False
+39587_Three Phase AC Voltage Controller,5,0.6208862641947527,False
+39809_Regenerative braking mode of Chopper Controlled DC,0,0.5194530319134085,False
+41833_Detailed Modelling of a 1.5MW Wind Turbine based o,5,0.47480145269781693,False
+42155_Direct Torque Control of an Induction Motor,5,0.5843382676819038,False
+42627_Shunt Active Power Filter,6,0.32502093978044744,False
+42792_Multilevel Inverter,6,0.4937121183228276,False
+42850_Indirect Matrix Converter with unity voltage trans,6,0.2881475927860773,False
+42931_Nine Level inverter,0,0.6923305101598404,False
+42938_SVPWM based Open Loop Speed Control of PMSM with M,6,0.3159834636067611,False
+42939_SVPWM Based Closed Loop Speed Control of PMSM with,6,0.34785667861432534,False
+43091_Shunt Active Power Filter,6,0.19139519553579082,False
+43252_Three state switching cell boost converter with co,6,0.34098112092738764,False
+43362_Closed Loop three phase boost converter,4,0.632234655453862,False
+43405_Three Phase Buck Converter,4,0.6508582497845753,False
+43673_Modelling the dynamics of switched reluctance moto,6,0.5002562414484325,False
+43940_Three Phase SPWM Inverter,2,0.621429815870527,False
+44142_SPWM for five leg inverter,0,0.49722247216136517,False
+44476_power quality improvement using shunt APF,0,0.4401636092470682,False
+44612_Hysteresis Current Controlled Single phase Grid-Co,5,0.7240702039310751,False
+44623_Constant boost control implementation,0,0.43029794297506535,False
+44676_3 Phase Inverter,2,0.5188672275172374,False
+44787_Three Phase SVPWM Inverter,2,0.5551028603991909,False
+45154_Multilevel Inverter,0,0.5300710327409812,False
+45772_DFIG with simplified crowbar,5,0.5178435447272448,False
+46067_IEEE 14 Bus System Simulink Model,6,0.1969508094249932,False
+46085_fivel level inverter,4,0.6922842900711321,False
+46925_PMSG_detailed.mdl,5,0.4519540811520263,False
+47323_9 level cascaded multilevel inverter,0,0.6900619065089888,False
+47495_Gasturbine.zip,5,0.5298290241145911,False
+47671_Three Phase Inverter Using Space Vector PWM Genera,2,0.5423348573938003,False
+47707_Sistema de potencia con 4 generadores sincronos,6,0.16101682056528124,False
+47727_MLPSEVEN.slx,6,0.16647016132240203,False
+48430_12 Pulse Rectifier,6,0.30059576665976423,False
+49848_induction motor fault detection,6,0.27379391786064167,False
+50011_Z Source Inverter with simple boost,0,0.5838948364838814,False
+50045_Cascaded 3-level Inverter,6,0.23584374232896393,False
+50117_Multi Machine Stability,6,0.23527486737379158,False
+50396_3 PHASE RECTIFIER WITH 3 PHASE INVERTER,0,0.44889786234622575,False
+50834_dc motor,5,0.7987886837432752,False
+51027_Space Vector Modulation for 3 phase 2-level invert,0,0.6307314510317882,False
+51929_Voltage Sag Caused by Induction Motor Starting,5,0.5335115368498901,False
+53315_Z-Source Inverter_Simple Boost Control,0,0.7041551698822635,False
+53327_Z-Source Inverter_Maximum Boost Control_Open loop,5,0.7119307505545626,False
+54148_Grid connected three phase PV inverter using PWM t,6,0.4075241117708243,False
+54690_three phase voltage regulator,4,0.5191349412916245,False
+54741_twelve pulse rectifier AC_DC,6,0.35443027723131865,False
+54742_six pulse controlled rectifier,5,0.702682219450449,False
+55544_self_excited_induction_generator,5,0.4353366539908645,False
+55653_Space vector modulation for 3 phase inverter,5,0.5988608473750824,False
+55816_Three Phase AC Voltage Controller Model,4,0.6311392374724686,False
+56431_full_bridge_bipolar_pwm_dc_dc_converter_loading_dc,5,0.6690478144659728,False
+56998_Doubly-fed Induction Machine,5,0.5431707657494488,False
+57976_space vector pwm for inverter,5,0.523705769964809,False
+60021_PSEUDOLINEAR EPLL,5,0.7554464495398923,False
+60249_Seventeel Level Inverter,2,0.5592974017219114,False
+60250_Fifteen Level Inverter,6,0.42151064663839133,False
+60251_Eleven level Inverter,0,0.4692449762779611,False
+60252_Fifteen Level Inverter with PWM control,2,0.5929310710649202,False
+61782_Single phase STATCOM,5,0.5770845734058995,False
+62006_Three Phase Shunt Active Power Filter using dq0 tr,6,0.3042899416803351,False
+62121_Power Filter For Boost Converter,5,0.6615674825838657,False
+62168_Shunt Active Power Filter,6,0.24358889720834656,False
+62259_solar powered simplified multi level inverter,0,0.5042909838143074,False
+62260_fifteen level inverter,0,0.5542408463392715,False
+62334_Three Phase SPWM Boost Rectifier with Closed Loop,4,0.7347392963868188,False
+62372_Three phase SPWM Buck Rectifier,6,0.40876786582690333,False
+62477_Power Filter For Full Wave Rectifier,5,0.7534867328254926,False
+62532_NINE_LEVEL_CASCADED_H_BRIDGE_SINGLE_PHASE_INVERTER,2,0.5773333291004119,False
+62747_Single Phase Shunt Active Power Filter,0,0.4871213000425797,False
+62945_The GridSide converter of DFIG,5,0.5376038878949411,False
+63105_Speed control of Cycloconverter fed Asynchronous M,0,0.5608354782111672,False
+63837_Vector Control of Permanent Magnet Synchronous Mot,5,0.6837360742697454,False
+64063_Series Active Filter,6,0.34985423430817847,False
+64109_Single Phase Dynamic Voltage Restorer,5,0.4785580648745031,False
+64545_vehicle 14 dof simulink model,5,0.5917267054203278,False
+64893_Differential digital protection for three phase tr,0,0.4758410323052537,False
+65467_Comparison of Three-Phase Transformer Bank and Thr,4,0.5678594949721,False
+65961_DSTATCOM for Improved equal current approach for r,0,0.48232722546328044,False
+66474_PSEUDORANDOM PWM FOR MULTILEVEL INVERTER,5,0.5897046599513525,False
+66548_SPWM BASED SINGLE PHASE INDUCTION MOTOR DRIVE USIN,5,0.6132403026277421,False
+66830_Induction motor driven by DC machine Power factor,5,0.5450942044754419,False
+66833_Open Circuit Test - Induction Motor,5,0.565176969843351,False
+67231_Simulation Analysis of Stability Problem in Wind G,6,0.19294698771166982,False
+67690_IEEE 30-bus system standard,6,0.2134910485012609,False
+69061_boost converter for a micro wind turbine,5,0.6031827309412044,False
+69064_PV and Battery system,0,0.5355917137575523,False
+69288_Quasi Z-Source AC-AC Converter,0,0.522315685721309,False
+70176_Open Loop Speed Control of Induction Motor using V,4,0.6295231629740573,False
+70310_Three phase diode rectifier model- Power Factor ca,4,0.5238855667873836,False
+71248_Asynchronous motor model fed through an inverter,5,0.5566458088161943,False
+71818_Subsynchronous resonance of wind farm in DFIG,0,0.5520323280183297,False
+72464_space vector modulation of three phase inverter,2,0.5575331591850626,False
+72533_Grid connected single phase inverter control using,5,0.7884666179596183,False
+72702_Grid connected three phase inverter control using,0,0.6862402789410588,False
+72709_Three phase STATCOM using D-Q control,0,0.5297710500222917,False
+72728_Dual output buck dc-dc converter with inner curren,5,0.6969098841015929,False
+72735_Three phase active power filter,0,0.4989761706171354,False
+72775_Space vector control of three phase inverter using,2,0.6705825750170576,False
+72776_Three phase unity power factor rectifier using d-q,0,0.597336044751011,False
+72810_SEDCM Chopper Drive,5,0.7750927207656693,False
+72811_UDQ STATCOM APF 1P,5,0.6620127150111128,False
+72988_Variable Voltage Variable Frequency ac-ac converte,0,0.43547484573595024,False
+72990_Variable Voltage Variable Frequency isolated ac-ac,0,0.4613776127167668,False
+73072_Three Phase Fully Contolled Bridge Rectifier,4,0.6656355607123505,False
+73196_Field Oriented Control of Induction Motor,5,0.47281871245602997,False
+73229_Three Phase Solar Photo-voltaic System Control,6,0.4082762005532363,False
+73469_1.5MW WIND GENERATION PLANT,5,0.5191377390131041,False
+73743_12-Pulse Diode Rectifier,6,0.43217906893090163,False
+73831_SSR damping in a DFIG-based wind farm by adding SD,0,0.4359805071067956,False
+74449_Three phase SPWM Inverter,2,0.5567406856141391,False
+77681_Temperature based Speed Control of BLDC Fan,5,0.6915473789301234,False
+77780_Open Loop Controlled DC Chopper Drive,0,0.6498984200714023,False
+77849_CDSC based PLL,5,0.7075054184116919,False
+77852_MDSC based PLL,5,0.7572077362049449,False
+79143_11-Level Multilevel Inverter with Reduced Number o,0,0.5245036516674311,False
+79298_IEEE 69 Bus with 10 MW Loads,6,0.4496164045900601,False
+79424_Improved Z-Source Inverter,2,0.513011508375999,False
+80065_Load Flow analysis of IEEE 14 bus test system,6,0.21246466837741998,False
+"80248_220V, 50 Hz, Shunt Active Filter",0,0.43267953028392303,False
+80347_PV Fed Three Level Cascaded MLI,0,0.5071934018799167,False
+82450_HYDEL PMSG,5,0.48554566142893335,False
+83948_Visualize droop characteristic of Synchronous gene,5,0.502221283060107,False
+85618_Three phase rectifier closed loop voltage controll,5,0.4937446134861309,False
+88071_Speed Control of BLDC with Drive Cycle,5,0.6750671976966588,False
+88562_Three Phase Rectifier with LC Filter and Buck Conv,6,0.4327725690810135,False
+89481_three phase Vienna rectifier,6,0.3959263950764246,False
+92188_12 pulse Converter for SMES,0,0.6219083015343494,False
+94480_12 Pulse Diode Rectifier,6,0.4943938610171425,False
+95053_Speed Control of BLDC Motor using Current Controll,5,0.5980857388437227,False
+97147_Half Bridge LLC Resonant Converter,0,0.6115256397108246,False
+98574_18-Pulse Diode Rectifier,6,0.2797109434314599,False
+98594_Electric Railway DC 750V Traction Power Supply Sys,5,0.6494169546507111,False
+98909_Active Harmonic Filter for Electric Railway Medium,5,0.6561120011109642,False
+99164_Sensor Less Field Oriented Control of Induction Mo,5,0.47480145269781693,False

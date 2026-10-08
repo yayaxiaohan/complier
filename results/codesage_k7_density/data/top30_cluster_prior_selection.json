@@ -1,0 +1,3670 @@
+{
+  "cluster_candidate_counts": [
+    67,
+    6,
+    26,
+    18,
+    22,
+    95,
+    50
+  ],
+  "cluster_formula": "(5*global+sum_selected_top30_program_means)/(5+n_selected_cluster)",
+  "cluster_selected_counts": [
+    30,
+    6,
+    26,
+    18,
+    22,
+    30,
+    30
+  ],
+  "cluster_selected_total": 162,
+  "density_selection": {
+    "frozen_before_outcomes": true,
+    "ranked_core_members": {
+      "0": [
+        {
+          "density_distance": 0.3553059563788178,
+          "program": "36334_A New 81 Level inverter",
+          "rank": 1,
+          "selected": true
+        },
+        {
+          "density_distance": 0.37888192729052245,
+          "program": "122537_Three-level NPC inverter in MATLAB_Simulink",
+          "rank": 2,
+          "selected": true
+        },
+        {
+          "density_distance": 0.4024081762227016,
+          "program": "104370_DC dc and AC dc converters grid connected",
+          "rank": 3,
+          "selected": true
+        },
+        {
+          "density_distance": 0.42104581498245125,
+          "program": "131024_Wavelet Transformer Based power system fault Detec",
+          "rank": 4,
+          "selected": true
+        },
+        {
+          "density_distance": 0.4260400200347365,
+          "program": "174025_Voltage Source Inverter",
+          "rank": 5,
+          "selected": true
+        },
+        {
+          "density_distance": 0.430041263258885,
+          "program": "181067_Multi-phase induction motor",
+          "rank": 6,
+          "selected": true
+        },
+        {
+          "density_distance": 0.43029794297506535,
+          "program": "44623_Constant boost control implementation",
+          "rank": 7,
+          "selected": true
+        },
+        {
+          "density_distance": 0.43267953028392303,
+          "program": "80248_220V, 50 Hz, Shunt Active Filter",
+          "rank": 8,
+          "selected": true
+        },
+        {
+          "density_distance": 0.43547484573595024,
+          "program": "72988_Variable Voltage Variable Frequency ac-ac converte",
+          "rank": 9,
+          "selected": true
+        },
+        {
+          "density_distance": 0.4359805071067956,
+          "program": "73831_SSR damping in a DFIG-based wind farm by adding SD",
+          "rank": 10,
+          "selected": true
+        },
+        {
+          "density_distance": 0.437972331641033,
+          "program": "183186_Selective Harmonic Elimination",
+          "rank": 11,
+          "selected": true
+        },
+        {
+          "density_distance": 0.43810685804645183,
+          "program": "155787_Transformer Differential Protection",
+          "rank": 12,
+          "selected": true
+        },
+        {
+          "density_distance": 0.4385789969247322,
+          "program": "38021_Single stage high power factor AC-DC converter",
+          "rank": 13,
+          "selected": true
+        },
+        {
+          "density_distance": 0.4401636092470682,
+          "program": "44476_power quality improvement using shunt APF",
+          "rank": 14,
+          "selected": true
+        },
+        {
+          "density_distance": 0.44406821617474573,
+          "program": "183076_Closed Loop Flyback Converter",
+          "rank": 15,
+          "selected": true
+        },
+        {
+          "density_distance": 0.44889786234622575,
+          "program": "50396_3 PHASE RECTIFIER WITH 3 PHASE INVERTER",
+          "rank": 16,
+          "selected": true
+        },
+        {
+          "density_distance": 0.45161403541874684,
+          "program": "161276_Virtual_synchronous_generator_control",
+          "rank": 17,
+          "selected": true
+        },
+        {
+          "density_distance": 0.4613776127167668,
+          "program": "72990_Variable Voltage Variable Frequency isolated ac-ac",
+          "rank": 18,
+          "selected": true
+        },
+        {
+          "density_distance": 0.4692449762779611,
+          "program": "60251_Eleven level Inverter",
+          "rank": 19,
+          "selected": true
+        },
+        {
+          "density_distance": 0.4758410323052537,
+          "program": "64893_Differential digital protection for three phase tr",
+          "rank": 20,
+          "selected": true
+        },
+        {
+          "density_distance": 0.47995564047590394,
+          "program": "183282_Solar Fed Dual Active Bridge Converter with MPPT",
+          "rank": 21,
+          "selected": true
+        },
+        {
+          "density_distance": 0.4804397422102436,
+          "program": "135241_EV AC Charger Load Double Tuned Harmonic Filter",
+          "rank": 22,
+          "selected": true
+        },
+        {
+          "density_distance": 0.48232722546328044,
+          "program": "65961_DSTATCOM for Improved equal current approach for r",
+          "rank": 23,
+          "selected": true
+        },
+        {
+          "density_distance": 0.4871213000425797,
+          "program": "62747_Single Phase Shunt Active Power Filter",
+          "rank": 24,
+          "selected": true
+        },
+        {
+          "density_distance": 0.49722247216136517,
+          "program": "44142_SPWM for five leg inverter",
+          "rank": 25,
+          "selected": true
+        },
+        {
+          "density_distance": 0.4989761706171354,
+          "program": "72735_Three phase active power filter",
+          "rank": 26,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5042909838143074,
+          "program": "62259_solar powered simplified multi level inverter",
+          "rank": 27,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5071934018799167,
+          "program": "80347_PV Fed Three Level Cascaded MLI",
+          "rank": 28,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5194530319134085,
+          "program": "39809_Regenerative braking mode of Chopper Controlled DC",
+          "rank": 29,
+          "selected": true
+        },
+        {
+          "density_distance": 0.522315685721309,
+          "program": "69288_Quasi Z-Source AC-AC Converter",
+          "rank": 30,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5233024325157882,
+          "program": "181915_Power factor correction techniques for AC to DC sy",
+          "rank": 31,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5236894868911073,
+          "program": "126085_DSTATCOM IRPT theory Neutral Current and Load Unba",
+          "rank": 32,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5245036516674311,
+          "program": "79143_11-Level Multilevel Inverter with Reduced Number o",
+          "rank": 33,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5252548488639521,
+          "program": "121957_Converter control mode change",
+          "rank": 34,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5289265859873259,
+          "program": "38045_non   isolated dc dc zvzcs converter",
+          "rank": 35,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5297710500222917,
+          "program": "72709_Three phase STATCOM using D-Q control",
+          "rank": 36,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5300710327409812,
+          "program": "45154_Multilevel Inverter",
+          "rank": 37,
+          "selected": false
+        },
+        {
+          "density_distance": 0.533355841784211,
+          "program": "35844_SVPWM based speed control of PMSM with  3-level In",
+          "rank": 38,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5355917137575523,
+          "program": "69064_PV and Battery system",
+          "rank": 39,
+          "selected": false
+        },
+        {
+          "density_distance": 0.537800416865152,
+          "program": "35911_SVPWM based speed control of Induction Motor with",
+          "rank": 40,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5414444576016565,
+          "program": "182976_Sheppard Taylor Power Factor Correction",
+          "rank": 41,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5436371706394489,
+          "program": "180933_Boost converter with neural network control",
+          "rank": 42,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5455616331324389,
+          "program": "181076_Parallel phases of voltage source inverter",
+          "rank": 43,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5499686781131745,
+          "program": "181207_PV System with SEPIC Converter",
+          "rank": 44,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5520323280183297,
+          "program": "71818_Subsynchronous resonance of wind farm in DFIG",
+          "rank": 45,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5538502007327587,
+          "program": "32590_12 pulse Rectifier",
+          "rank": 46,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5542408463392715,
+          "program": "62260_fifteen level inverter",
+          "rank": 47,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5608354782111672,
+          "program": "63105_Speed control of Cycloconverter fed Asynchronous M",
+          "rank": 48,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5645717132912002,
+          "program": "181405_Vienna rectifier",
+          "rank": 49,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5838948364838814,
+          "program": "50011_Z Source Inverter with simple boost",
+          "rank": 50,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5855250373728842,
+          "program": "27362_Single Phase to Single Phase Step down Cycloconver",
+          "rank": 51,
+          "selected": false
+        },
+        {
+          "density_distance": 0.597336044751011,
+          "program": "72776_Three phase unity power factor rectifier using d-q",
+          "rank": 52,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6067021236010467,
+          "program": "180971_Open and closed loop of LLC converter",
+          "rank": 53,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6115256397108246,
+          "program": "97147_Half Bridge LLC Resonant Converter",
+          "rank": 54,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6119183169376332,
+          "program": "27410_Step Up Cycloconverter",
+          "rank": 55,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6146206556846198,
+          "program": "27247_Single Phase Cycloconverter",
+          "rank": 56,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6219083015343494,
+          "program": "92188_12 pulse Converter for SMES",
+          "rank": 57,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6307314510317882,
+          "program": "51027_Space Vector Modulation for 3 phase 2-level invert",
+          "rank": 58,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6307526383533345,
+          "program": "38020_Multilevel inverter with reverse voltage technique",
+          "rank": 59,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6347652828688036,
+          "program": "181068_Multi-pulse rectifier",
+          "rank": 60,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6498984200714023,
+          "program": "77780_Open Loop Controlled DC Chopper Drive",
+          "rank": 61,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6812432550995545,
+          "program": "38820_Sinusoidal Buck Boost AC Voltage Controller",
+          "rank": 62,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6839627733927299,
+          "program": "115035_Induction Motor Protection",
+          "rank": 63,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6862402789410588,
+          "program": "72702_Grid connected three phase inverter control using",
+          "rank": 64,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6900619065089888,
+          "program": "47323_9 level cascaded multilevel inverter",
+          "rank": 65,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6923305101598404,
+          "program": "42931_Nine Level inverter",
+          "rank": 66,
+          "selected": false
+        },
+        {
+          "density_distance": 0.7041551698822635,
+          "program": "53315_Z-Source Inverter_Simple Boost Control",
+          "rank": 67,
+          "selected": false
+        }
+      ],
+      "1": [
+        {
+          "density_distance": 0.7972416353083747,
+          "program": "26913_Reentrance Problems of Heart VI1 simulator simulin",
+          "rank": 1,
+          "selected": true
+        },
+        {
+          "density_distance": 0.8252215176942561,
+          "program": "26735_Investigation 6 de Reentrance du simulateur cardia",
+          "rank": 2,
+          "selected": true
+        },
+        {
+          "density_distance": 0.8257413733589168,
+          "program": "29869_Reentrance VI1 Heart VI1 block simulink-N\u00b013",
+          "rank": 3,
+          "selected": true
+        },
+        {
+          "density_distance": 0.8347387267269056,
+          "program": "27335_Heart VI1 simulator simulink Reentrance investigat",
+          "rank": 4,
+          "selected": true
+        },
+        {
+          "density_distance": 0.8411823863384953,
+          "program": "26601_Reentrance VI1-Heart VI1 Simulator Simulink",
+          "rank": 5,
+          "selected": true
+        },
+        {
+          "density_distance": 0.8471761645708495,
+          "program": "29840_Reentrance VI1-10 Heart Vi1 Block Simulink",
+          "rank": 6,
+          "selected": true
+        }
+      ],
+      "2": [
+        {
+          "density_distance": 0.46753835561143336,
+          "program": "181114_Split source inverter",
+          "rank": 1,
+          "selected": true
+        },
+        {
+          "density_distance": 0.513011508375999,
+          "program": "79424_Improved Z-Source Inverter",
+          "rank": 2,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5130734235124212,
+          "program": "32281_Controllable Inverter_",
+          "rank": 3,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5133751694005652,
+          "program": "181116_T-type inverter",
+          "rank": 4,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5188672275172374,
+          "program": "44676_3 Phase Inverter",
+          "rank": 5,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5203287102608294,
+          "program": "181069_Nine switch inverter",
+          "rank": 6,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5423348573938003,
+          "program": "47671_Three Phase Inverter Using Space Vector PWM Genera",
+          "rank": 7,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5527788287020642,
+          "program": "37756_3PHASE BRIDGE INVERTER 120 DEGREE MODE",
+          "rank": 8,
+          "selected": true
+        },
+        {
+          "density_distance": 0.553603205205536,
+          "program": "35966_Simulink model of SPWM based single phase inverter",
+          "rank": 9,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5551028603991909,
+          "program": "44787_Three Phase SVPWM Inverter",
+          "rank": 10,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5567406856141391,
+          "program": "74449_Three phase SPWM Inverter",
+          "rank": 11,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5575331591850626,
+          "program": "72464_space vector modulation of three phase inverter",
+          "rank": 12,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5579033493789674,
+          "program": "181276_closed loop boost converter with VSI and transform",
+          "rank": 13,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5592974017219114,
+          "program": "60249_Seventeel Level Inverter",
+          "rank": 14,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5607483810863494,
+          "program": "182311_Low-THD Three-Leg Inverter with Variable Modulatio",
+          "rank": 15,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5611153432457516,
+          "program": "180915_pe-proj",
+          "rank": 16,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5773333291004119,
+          "program": "62532_NINE_LEVEL_CASCADED_H_BRIDGE_SINGLE_PHASE_INVERTER",
+          "rank": 17,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5929310710649202,
+          "program": "60252_Fifteen Level Inverter with PWM control",
+          "rank": 18,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5975570340359427,
+          "program": "102054_Three Phase Grid Connected Inverter",
+          "rank": 19,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5981926011284452,
+          "program": "181275_Closed loop boost converter with voltage source in",
+          "rank": 20,
+          "selected": true
+        },
+        {
+          "density_distance": 0.6108138291904195,
+          "program": "180935_Closed loop control of boost converter with VSI",
+          "rank": 21,
+          "selected": true
+        },
+        {
+          "density_distance": 0.621429815870527,
+          "program": "43940_Three Phase SPWM Inverter",
+          "rank": 22,
+          "selected": true
+        },
+        {
+          "density_distance": 0.6289984059585836,
+          "program": "182931_Grid Following Solar PV Array with Inverter Contro",
+          "rank": 23,
+          "selected": true
+        },
+        {
+          "density_distance": 0.6306494612638922,
+          "program": "134641_Cascaded 5-level Multi_level Inverter",
+          "rank": 24,
+          "selected": true
+        },
+        {
+          "density_distance": 0.6705825750170576,
+          "program": "72775_Space vector control of three phase inverter using",
+          "rank": 25,
+          "selected": true
+        },
+        {
+          "density_distance": 0.7045354369342601,
+          "program": "181060_Speed control of three phase induction motor based",
+          "rank": 26,
+          "selected": true
+        }
+      ],
+      "3": [
+        {
+          "density_distance": 0.26081659703813703,
+          "program": "26463_Heart Vi1 Simulator Simulink Investigation 20-Moni",
+          "rank": 1,
+          "selected": true
+        },
+        {
+          "density_distance": 0.2659310945706854,
+          "program": "26037_Annihilation Of Cardiac Rythm And Sudden Death",
+          "rank": 2,
+          "selected": true
+        },
+        {
+          "density_distance": 0.27447541348322774,
+          "program": "26013_HEARTVI1 WITH SIMULINK NEW BLOCK LIBRARY",
+          "rank": 3,
+          "selected": true
+        },
+        {
+          "density_distance": 0.28951339862399483,
+          "program": "26438_HEART VI1 SIMULATOR-INVESTIGATION 12-MONITORING",
+          "rank": 4,
+          "selected": true
+        },
+        {
+          "density_distance": 0.2978088850065484,
+          "program": "26464_Heart Vi1 Simulator Simulink in Investigation 21-M",
+          "rank": 5,
+          "selected": true
+        },
+        {
+          "density_distance": 0.3041655435467308,
+          "program": "27334_HEART VI1 Simulator Simulink Investigation 28",
+          "rank": 6,
+          "selected": true
+        },
+        {
+          "density_distance": 0.31036989893461975,
+          "program": "26402_HEART VI1 SIMULATOR SIMULINK-Version 10",
+          "rank": 7,
+          "selected": true
+        },
+        {
+          "density_distance": 0.3123212743862233,
+          "program": "26460_HeartVI1 Simulink Investigation 17-Monitoring",
+          "rank": 8,
+          "selected": true
+        },
+        {
+          "density_distance": 0.3343991926463237,
+          "program": "26705_Le simulateur cardiaque VI1 simulink-monitoring N\u00b0",
+          "rank": 9,
+          "selected": true
+        },
+        {
+          "density_distance": 0.3350663603107681,
+          "program": "26912_HeartVI1 Simulator Simulink Investigation 27",
+          "rank": 10,
+          "selected": true
+        },
+        {
+          "density_distance": 0.3650791366453122,
+          "program": "26465_Heart VI1 Simulator Simulink Investigation 22-Moni",
+          "rank": 11,
+          "selected": true
+        },
+        {
+          "density_distance": 0.3891083027264063,
+          "program": "26462_Heart VI1 Simulator Simulink in Investigation 19_M",
+          "rank": 12,
+          "selected": true
+        },
+        {
+          "density_distance": 0.402849358974807,
+          "program": "29902_Heart VI1 Block Simulink-file 36",
+          "rank": 13,
+          "selected": true
+        },
+        {
+          "density_distance": 0.4182598959925031,
+          "program": "26298_Sinusal Stimulation Of HEARTVI19 Simulink And Arrh",
+          "rank": 14,
+          "selected": true
+        },
+        {
+          "density_distance": 0.41956550422473077,
+          "program": "29839_HeartVI1-30 Blocks Simulink",
+          "rank": 15,
+          "selected": true
+        },
+        {
+          "density_distance": 0.45061277069814454,
+          "program": "29868_Heart VI1-block simulink-N\u00b033",
+          "rank": 16,
+          "selected": true
+        },
+        {
+          "density_distance": 0.47715561605180695,
+          "program": "26561_Global Heart VI1 -Simulink-Monitoring-And CompiLin",
+          "rank": 17,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5742052630201877,
+          "program": "26579_Problems Of Compiling ProcessorHeart VI1 somulator",
+          "rank": 18,
+          "selected": true
+        }
+      ],
+      "4": [
+        {
+          "density_distance": 0.5191349412916245,
+          "program": "54690_three phase voltage regulator",
+          "rank": 1,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5238855667873836,
+          "program": "70310_Three phase diode rectifier model- Power Factor ca",
+          "rank": 2,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5247453837742915,
+          "program": "36691_1-Phase to 3-Phase Power Conversion using SPWM con",
+          "rank": 3,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5462734901083547,
+          "program": "38348_Three phase Stacom, Active front end rectifier and",
+          "rank": 4,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5678594949721,
+          "program": "65467_Comparison of Three-Phase Transformer Bank and Thr",
+          "rank": 5,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5741601782555554,
+          "program": "132463_Three Phase Transformer Short Circuit Test",
+          "rank": 6,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5920982317932211,
+          "program": "181073_Open-circuit test of three-phase transformer",
+          "rank": 7,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5958631962316391,
+          "program": "37124_Three Phase SPWM",
+          "rank": 8,
+          "selected": true
+        },
+        {
+          "density_distance": 0.6195976989975331,
+          "program": "132458_Three Phase Transformer Open Circuit Test",
+          "rank": 9,
+          "selected": true
+        },
+        {
+          "density_distance": 0.6295231629740573,
+          "program": "70176_Open Loop Speed Control of Induction Motor using V",
+          "rank": 10,
+          "selected": true
+        },
+        {
+          "density_distance": 0.6311392374724686,
+          "program": "175378_Three phase active front end PFC",
+          "rank": 11,
+          "selected": true
+        },
+        {
+          "density_distance": 0.6311392374724686,
+          "program": "55816_Three Phase AC Voltage Controller Model",
+          "rank": 12,
+          "selected": true
+        },
+        {
+          "density_distance": 0.632234655453862,
+          "program": "43362_Closed Loop three phase boost converter",
+          "rank": 13,
+          "selected": true
+        },
+        {
+          "density_distance": 0.6325513499051458,
+          "program": "38267_Speed Control Of DC motor using 3phase fully contr",
+          "rank": 14,
+          "selected": true
+        },
+        {
+          "density_distance": 0.6436319898569779,
+          "program": "39404_Induction Motor connected through Matrix converter",
+          "rank": 15,
+          "selected": true
+        },
+        {
+          "density_distance": 0.6508582497845753,
+          "program": "43405_Three Phase Buck Converter",
+          "rank": 16,
+          "selected": true
+        },
+        {
+          "density_distance": 0.6574081020122096,
+          "program": "181486_Speed_control_2Phase_Steppermotor_Permanent magnet",
+          "rank": 17,
+          "selected": true
+        },
+        {
+          "density_distance": 0.6656355607123505,
+          "program": "73072_Three Phase Fully Contolled Bridge Rectifier",
+          "rank": 18,
+          "selected": true
+        },
+        {
+          "density_distance": 0.6922842900711321,
+          "program": "46085_fivel level inverter",
+          "rank": 19,
+          "selected": true
+        },
+        {
+          "density_distance": 0.7018617926938313,
+          "program": "107105_Closed_loop_three_phase_VSI_Inverter.slx",
+          "rank": 20,
+          "selected": true
+        },
+        {
+          "density_distance": 0.7286654399401995,
+          "program": "32983_Space Vector Pulse Width Modulation Based Three Ph",
+          "rank": 21,
+          "selected": true
+        },
+        {
+          "density_distance": 0.7347392963868188,
+          "program": "62334_Three Phase SPWM Boost Rectifier with Closed Loop",
+          "rank": 22,
+          "selected": true
+        }
+      ],
+      "5": [
+        {
+          "density_distance": 0.4353366539908645,
+          "program": "55544_self_excited_induction_generator",
+          "rank": 1,
+          "selected": true
+        },
+        {
+          "density_distance": 0.4519540811520263,
+          "program": "46925_PMSG_detailed.mdl",
+          "rank": 2,
+          "selected": true
+        },
+        {
+          "density_distance": 0.4712909404442888,
+          "program": "181117_Star-delta starting of induction motor",
+          "rank": 3,
+          "selected": true
+        },
+        {
+          "density_distance": 0.47281871245602997,
+          "program": "126095_ZERO VOLTAGE REGULATION DSTATCOM using IRPT",
+          "rank": 4,
+          "selected": true
+        },
+        {
+          "density_distance": 0.47281871245602997,
+          "program": "73196_Field Oriented Control of Induction Motor",
+          "rank": 5,
+          "selected": true
+        },
+        {
+          "density_distance": 0.47480145269781693,
+          "program": "41833_Detailed Modelling of a 1.5MW Wind Turbine based o",
+          "rank": 6,
+          "selected": true
+        },
+        {
+          "density_distance": 0.47480145269781693,
+          "program": "99164_Sensor Less Field Oriented Control of Induction Mo",
+          "rank": 7,
+          "selected": true
+        },
+        {
+          "density_distance": 0.4785580648745031,
+          "program": "64109_Single Phase Dynamic Voltage Restorer",
+          "rank": 8,
+          "selected": true
+        },
+        {
+          "density_distance": 0.48554566142893335,
+          "program": "82450_HYDEL PMSG",
+          "rank": 9,
+          "selected": true
+        },
+        {
+          "density_distance": 0.4937446134861309,
+          "program": "85618_Three phase rectifier closed loop voltage controll",
+          "rank": 10,
+          "selected": true
+        },
+        {
+          "density_distance": 0.502221283060107,
+          "program": "83948_Visualize droop characteristic of Synchronous gene",
+          "rank": 11,
+          "selected": true
+        },
+        {
+          "density_distance": 0.510559730022282,
+          "program": "33738_Hybrid 31Level Inverter",
+          "rank": 12,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5178435447272448,
+          "program": "45772_DFIG with simplified crowbar",
+          "rank": 13,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5191377390131041,
+          "program": "73469_1.5MW WIND GENERATION PLANT",
+          "rank": 14,
+          "selected": true
+        },
+        {
+          "density_distance": 0.523705769964809,
+          "program": "57976_space vector pwm for inverter",
+          "rank": 15,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5298290241145911,
+          "program": "47495_Gasturbine.zip",
+          "rank": 16,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5330883513824568,
+          "program": "180928_Unbalance operation of induction motor with Genera",
+          "rank": 17,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5335115368498901,
+          "program": "51929_Voltage Sag Caused by Induction Motor Starting",
+          "rank": 18,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5376038878949411,
+          "program": "62945_The GridSide converter of DFIG",
+          "rank": 19,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5431707657494488,
+          "program": "56998_Doubly-fed Induction Machine",
+          "rank": 20,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5450942044754419,
+          "program": "66830_Induction motor driven by DC machine Power factor",
+          "rank": 21,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5473116193142333,
+          "program": "129809_Pitch-rate-controller-for-aircraft",
+          "rank": 22,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5495833117968629,
+          "program": "181082_Plugging of induction motor",
+          "rank": 23,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5532214991713079,
+          "program": "124180_DC motor position control using type E chopper",
+          "rank": 24,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5550293279398945,
+          "program": "180989_Dynamic braking of three phase induction motor",
+          "rank": 25,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5566458088161943,
+          "program": "71248_Asynchronous motor model fed through an inverter",
+          "rank": 26,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5636962225749136,
+          "program": "161061_VSG grid connected simulation with no load",
+          "rank": 27,
+          "selected": true
+        },
+        {
+          "density_distance": 0.565176969843351,
+          "program": "66833_Open Circuit Test - Induction Motor",
+          "rank": 28,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5694416589052391,
+          "program": "181700_dual active bridge converter with half bridge conf",
+          "rank": 29,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5770845734058995,
+          "program": "61782_Single phase STATCOM",
+          "rank": 30,
+          "selected": true
+        },
+        {
+          "density_distance": 0.5843382676819038,
+          "program": "42155_Direct Torque Control of an Induction Motor",
+          "rank": 31,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5848999410706645,
+          "program": "126070_D-STATCOM Harmonic Compensation and Unity PF opera",
+          "rank": 32,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5897046599513525,
+          "program": "66474_PSEUDORANDOM PWM FOR MULTILEVEL INVERTER",
+          "rank": 33,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5917267054203278,
+          "program": "64545_vehicle 14 dof simulink model",
+          "rank": 34,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5933281873562157,
+          "program": "134711_Open loop control of three-phase induction motor",
+          "rank": 35,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5980857388437227,
+          "program": "95053_Speed Control of BLDC Motor using Current Controll",
+          "rank": 36,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5982213956636061,
+          "program": "35963_IEEE 1459-2000",
+          "rank": 37,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5988608473750824,
+          "program": "55653_Space vector modulation for 3 phase inverter",
+          "rank": 38,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5994440937352326,
+          "program": "182238_Model of operation modes for vertical mine lifts",
+          "rank": 39,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6010358224383981,
+          "program": "181057_Braking of induction motor based on plugging",
+          "rank": 40,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6014673129717825,
+          "program": "136409_V_f _control of Induction motor_SLIP regulation_Mo",
+          "rank": 41,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6026656450609537,
+          "program": "131394_abc to alphaBetaGamma_dq Conversion",
+          "rank": 42,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6027335527077512,
+          "program": "104295_uncertain dual arm robots controller",
+          "rank": 43,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6031827309412044,
+          "program": "69061_boost converter for a micro wind turbine",
+          "rank": 44,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6102236139884287,
+          "program": "109059_PMSM Wind Turbine",
+          "rank": 45,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6132403026277421,
+          "program": "66548_SPWM BASED SINGLE PHASE INDUCTION MOTOR DRIVE USIN",
+          "rank": 46,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6155854036118397,
+          "program": "181084_Single-phase half-wave controlled rectifier",
+          "rank": 47,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6208862641947527,
+          "program": "39587_Three Phase AC Voltage Controller",
+          "rank": 48,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6219361454448719,
+          "program": "111090_Single phase DC - AC Matrix converter fed IM drive",
+          "rank": 49,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6278853689910359,
+          "program": "174730_speed control of PMSM using hybrid multilevel inve",
+          "rank": 50,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6464203987578925,
+          "program": "181140_aaa",
+          "rank": 51,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6494169546507111,
+          "program": "98594_Electric Railway DC 750V Traction Power Supply Sys",
+          "rank": 52,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6508884281293816,
+          "program": "117350_Full thermal network model of the SMOG-1 picosatel",
+          "rank": 53,
+          "selected": false
+        },
+        {
+          "density_distance": 0.652849131769662,
+          "program": "182954_Active Power Factor Correction Using Boost Convert",
+          "rank": 54,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6557569316358959,
+          "program": "182881_Closed-Loop Control of Single-Phase Grid Inverter",
+          "rank": 55,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6561120011109642,
+          "program": "98909_Active Harmonic Filter for Electric Railway Medium",
+          "rank": 56,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6602821414993195,
+          "program": "175893_Speed control of SPMSM",
+          "rank": 57,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6615674825838657,
+          "program": "62121_Power Filter For Boost Converter",
+          "rank": 58,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6620127150111128,
+          "program": "72811_UDQ STATCOM APF 1P",
+          "rank": 59,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6642607618681664,
+          "program": "174890_Totem Pole Power Factor Correction PFC",
+          "rank": 60,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6656783345747007,
+          "program": "24396_Inversor de dois Niveis com modula\u00e7\u00e3o por largura",
+          "rank": 61,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6690478144659728,
+          "program": "56431_full_bridge_bipolar_pwm_dc_dc_converter_loading_dc",
+          "rank": 62,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6690892771537362,
+          "program": "131209_PFC boost",
+          "rank": 63,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6738010328650276,
+          "program": "2412_Herr Klaus",
+          "rank": 64,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6739443802343893,
+          "program": "180920_Closed loop of AC voltage controller",
+          "rank": 65,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6750671976966588,
+          "program": "88071_Speed Control of BLDC with Drive Cycle",
+          "rank": 66,
+          "selected": false
+        },
+        {
+          "density_distance": 0.67525736358492,
+          "program": "30528_Carrier Wave 3 leg inverter",
+          "rank": 67,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6835152118362872,
+          "program": "130104_Island Microgrid Wind Turbine 150 kW",
+          "rank": 68,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6835889718399027,
+          "program": "109510_Single-Phase Grid Connected DC-AC Inverter",
+          "rank": 69,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6837360742697454,
+          "program": "63837_Vector Control of Permanent Magnet Synchronous Mot",
+          "rank": 70,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6840045182965969,
+          "program": "168146_PFC with hysterisis control",
+          "rank": 71,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6846066589507396,
+          "program": "176223_Closed loop control of Buck Boost PFC",
+          "rank": 72,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6865489394368242,
+          "program": "27373_Modified Sinusoidal PWM based Inverter",
+          "rank": 73,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6873597441343934,
+          "program": "174815_SEPIC Power Factor Correction PFC",
+          "rank": 74,
+          "selected": false
+        },
+        {
+          "density_distance": 0.687644426727029,
+          "program": "38804_PMSM simulation",
+          "rank": 75,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6915473789301234,
+          "program": "77681_Temperature based Speed Control of BLDC Fan",
+          "rank": 76,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6969098841015929,
+          "program": "72728_Dual output buck dc-dc converter with inner curren",
+          "rank": 77,
+          "selected": false
+        },
+        {
+          "density_distance": 0.6983071181681951,
+          "program": "20711_Ventricular guinea-pig action potential",
+          "rank": 78,
+          "selected": false
+        },
+        {
+          "density_distance": 0.702682219450449,
+          "program": "54742_six pulse controlled rectifier",
+          "rank": 79,
+          "selected": false
+        },
+        {
+          "density_distance": 0.7044857710923328,
+          "program": "30503_Space vector PWM for 3 leg inverters",
+          "rank": 80,
+          "selected": false
+        },
+        {
+          "density_distance": 0.7075054184116919,
+          "program": "77849_CDSC based PLL",
+          "rank": 81,
+          "selected": false
+        },
+        {
+          "density_distance": 0.7112706735716053,
+          "program": "174470_PLL based boost Power Factor Correction PFC",
+          "rank": 82,
+          "selected": false
+        },
+        {
+          "density_distance": 0.7119307505545626,
+          "program": "53327_Z-Source Inverter_Maximum Boost Control_Open loop",
+          "rank": 83,
+          "selected": false
+        },
+        {
+          "density_distance": 0.7128022423441118,
+          "program": "180983_Two-Area Fuzzy Load Frequency Controller in Simuli",
+          "rank": 84,
+          "selected": false
+        },
+        {
+          "density_distance": 0.7182936603133986,
+          "program": "180954_Armature_field control of DC motor with chopper _",
+          "rank": 85,
+          "selected": false
+        },
+        {
+          "density_distance": 0.7240702039310751,
+          "program": "44612_Hysteresis Current Controlled Single phase Grid-Co",
+          "rank": 86,
+          "selected": false
+        },
+        {
+          "density_distance": 0.7317793376300562,
+          "program": "27420_Boost Converter -- Close Loop",
+          "rank": 87,
+          "selected": false
+        },
+        {
+          "density_distance": 0.7376745989188584,
+          "program": "18812_Nodose neuron action potential firing",
+          "rank": 88,
+          "selected": false
+        },
+        {
+          "density_distance": 0.7534867328254926,
+          "program": "62477_Power Filter For Full Wave Rectifier",
+          "rank": 89,
+          "selected": false
+        },
+        {
+          "density_distance": 0.7554464495398923,
+          "program": "60021_PSEUDOLINEAR EPLL",
+          "rank": 90,
+          "selected": false
+        },
+        {
+          "density_distance": 0.7572077362049449,
+          "program": "77852_MDSC based PLL",
+          "rank": 91,
+          "selected": false
+        },
+        {
+          "density_distance": 0.7750927207656693,
+          "program": "72810_SEDCM Chopper Drive",
+          "rank": 92,
+          "selected": false
+        },
+        {
+          "density_distance": 0.7884666179596183,
+          "program": "72533_Grid connected single phase inverter control using",
+          "rank": 93,
+          "selected": false
+        },
+        {
+          "density_distance": 0.7987886837432752,
+          "program": "50834_dc motor",
+          "rank": 94,
+          "selected": false
+        },
+        {
+          "density_distance": 0.8042781088058143,
+          "program": "27686_Sinosoidal PWM based three phase inverter -- Sawto",
+          "rank": 95,
+          "selected": false
+        }
+      ],
+      "6": [
+        {
+          "density_distance": 0.1565668414049266,
+          "program": "27372_Five Level three phase Sinusoidal PWM based Diode",
+          "rank": 1,
+          "selected": true
+        },
+        {
+          "density_distance": 0.16101682056528124,
+          "program": "47707_Sistema de potencia con 4 generadores sincronos",
+          "rank": 2,
+          "selected": true
+        },
+        {
+          "density_distance": 0.16647016132240203,
+          "program": "47727_MLPSEVEN.slx",
+          "rank": 3,
+          "selected": true
+        },
+        {
+          "density_distance": 0.17981435024837986,
+          "program": "158736_Harmonic Benchmark Test System",
+          "rank": 4,
+          "selected": true
+        },
+        {
+          "density_distance": 0.18034141357108766,
+          "program": "126330_Compensation by a D-STATCOM in d-q frame of a line",
+          "rank": 5,
+          "selected": true
+        },
+        {
+          "density_distance": 0.19139519553579082,
+          "program": "43091_Shunt Active Power Filter",
+          "rank": 6,
+          "selected": true
+        },
+        {
+          "density_distance": 0.192270282657214,
+          "program": "33741_Three phase 27Level inverter with Single DC source",
+          "rank": 7,
+          "selected": true
+        },
+        {
+          "density_distance": 0.19294698771166982,
+          "program": "67231_Simulation Analysis of Stability Problem in Wind G",
+          "rank": 8,
+          "selected": true
+        },
+        {
+          "density_distance": 0.1969508094249932,
+          "program": "46067_IEEE 14 Bus System Simulink Model",
+          "rank": 9,
+          "selected": true
+        },
+        {
+          "density_distance": 0.20539573631949806,
+          "program": "182773_12-Pulse Converter for HVDC Transmission Line",
+          "rank": 10,
+          "selected": true
+        },
+        {
+          "density_distance": 0.21246466837741998,
+          "program": "80065_Load Flow analysis of IEEE 14 bus test system",
+          "rank": 11,
+          "selected": true
+        },
+        {
+          "density_distance": 0.2134910485012609,
+          "program": "67690_IEEE 30-bus system standard",
+          "rank": 12,
+          "selected": true
+        },
+        {
+          "density_distance": 0.2149284494673278,
+          "program": "181197_Twelve switch split source inverter",
+          "rank": 13,
+          "selected": true
+        },
+        {
+          "density_distance": 0.23527486737379158,
+          "program": "50117_Multi Machine Stability",
+          "rank": 14,
+          "selected": true
+        },
+        {
+          "density_distance": 0.23584374232896393,
+          "program": "50045_Cascaded 3-level Inverter",
+          "rank": 15,
+          "selected": true
+        },
+        {
+          "density_distance": 0.24358889720834656,
+          "program": "62168_Shunt Active Power Filter",
+          "rank": 16,
+          "selected": true
+        },
+        {
+          "density_distance": 0.26088407515736034,
+          "program": "104120_DESIGN OF DC MICROGRID",
+          "rank": 17,
+          "selected": true
+        },
+        {
+          "density_distance": 0.26198447154964183,
+          "program": "183244_Flying Capacitor Multilevel converter",
+          "rank": 18,
+          "selected": true
+        },
+        {
+          "density_distance": 0.27379391786064167,
+          "program": "49848_induction motor fault detection",
+          "rank": 19,
+          "selected": true
+        },
+        {
+          "density_distance": 0.2797109434314599,
+          "program": "98574_18-Pulse Diode Rectifier",
+          "rank": 20,
+          "selected": true
+        },
+        {
+          "density_distance": 0.2881475927860773,
+          "program": "42850_Indirect Matrix Converter with unity voltage trans",
+          "rank": 21,
+          "selected": true
+        },
+        {
+          "density_distance": 0.2946856374344064,
+          "program": "125595_Three Phase Five Level Neutral Point Clamped Conve",
+          "rank": 22,
+          "selected": true
+        },
+        {
+          "density_distance": 0.29972187195237254,
+          "program": "27313_Three level three phase diode clamped SPWM inverte",
+          "rank": 23,
+          "selected": true
+        },
+        {
+          "density_distance": 0.30059576665976423,
+          "program": "48430_12 Pulse Rectifier",
+          "rank": 24,
+          "selected": true
+        },
+        {
+          "density_distance": 0.3042899416803351,
+          "program": "62006_Three Phase Shunt Active Power Filter using dq0 tr",
+          "rank": 25,
+          "selected": true
+        },
+        {
+          "density_distance": 0.3159834636067611,
+          "program": "42938_SVPWM based Open Loop Speed Control of PMSM with M",
+          "rank": 26,
+          "selected": true
+        },
+        {
+          "density_distance": 0.3191767636226362,
+          "program": "181198_Nine switch split source inverter",
+          "rank": 27,
+          "selected": true
+        },
+        {
+          "density_distance": 0.32502093978044744,
+          "program": "42627_Shunt Active Power Filter",
+          "rank": 28,
+          "selected": true
+        },
+        {
+          "density_distance": 0.330526632325379,
+          "program": "181110_Simplified split source inverter",
+          "rank": 29,
+          "selected": true
+        },
+        {
+          "density_distance": 0.3345090132187078,
+          "program": "38292_Z source Multi level inverter",
+          "rank": 30,
+          "selected": true
+        },
+        {
+          "density_distance": 0.34098112092738764,
+          "program": "43252_Three state switching cell boost converter with co",
+          "rank": 31,
+          "selected": false
+        },
+        {
+          "density_distance": 0.34785667861432534,
+          "program": "42939_SVPWM Based Closed Loop Speed Control of PMSM with",
+          "rank": 32,
+          "selected": false
+        },
+        {
+          "density_distance": 0.34985423430817847,
+          "program": "64063_Series Active Filter",
+          "rank": 33,
+          "selected": false
+        },
+        {
+          "density_distance": 0.35332566044743235,
+          "program": "171989_Wind solar microgrid",
+          "rank": 34,
+          "selected": false
+        },
+        {
+          "density_distance": 0.35443027723131865,
+          "program": "54741_twelve pulse rectifier AC_DC",
+          "rank": 35,
+          "selected": false
+        },
+        {
+          "density_distance": 0.3650263419081395,
+          "program": "183271_PFC Based EV Charger With Controlled Battery Charg",
+          "rank": 36,
+          "selected": false
+        },
+        {
+          "density_distance": 0.39190003705990994,
+          "program": "39410_Closed loop V_F based speed control of Induction M",
+          "rank": 37,
+          "selected": false
+        },
+        {
+          "density_distance": 0.3959263950764246,
+          "program": "89481_three phase Vienna rectifier",
+          "rank": 38,
+          "selected": false
+        },
+        {
+          "density_distance": 0.4006063493693626,
+          "program": "36722_3-phase Induction Motor Drive",
+          "rank": 39,
+          "selected": false
+        },
+        {
+          "density_distance": 0.4075241117708243,
+          "program": "54148_Grid connected three phase PV inverter using PWM t",
+          "rank": 40,
+          "selected": false
+        },
+        {
+          "density_distance": 0.4082762005532363,
+          "program": "73229_Three Phase Solar Photo-voltaic System Control",
+          "rank": 41,
+          "selected": false
+        },
+        {
+          "density_distance": 0.40876786582690333,
+          "program": "62372_Three phase SPWM Buck Rectifier",
+          "rank": 42,
+          "selected": false
+        },
+        {
+          "density_distance": 0.4114142631337631,
+          "program": "111315_5 Level Diode clamped Inverter",
+          "rank": 43,
+          "selected": false
+        },
+        {
+          "density_distance": 0.42151064663839133,
+          "program": "60250_Fifteen Level Inverter",
+          "rank": 44,
+          "selected": false
+        },
+        {
+          "density_distance": 0.43217906893090163,
+          "program": "73743_12-Pulse Diode Rectifier",
+          "rank": 45,
+          "selected": false
+        },
+        {
+          "density_distance": 0.4327725690810135,
+          "program": "88562_Three Phase Rectifier with LC Filter and Buck Conv",
+          "rank": 46,
+          "selected": false
+        },
+        {
+          "density_distance": 0.4496164045900601,
+          "program": "79298_IEEE 69 Bus with 10 MW Loads",
+          "rank": 47,
+          "selected": false
+        },
+        {
+          "density_distance": 0.4937121183228276,
+          "program": "42792_Multilevel Inverter",
+          "rank": 48,
+          "selected": false
+        },
+        {
+          "density_distance": 0.4943938610171425,
+          "program": "94480_12 Pulse Diode Rectifier",
+          "rank": 49,
+          "selected": false
+        },
+        {
+          "density_distance": 0.5002562414484325,
+          "program": "43673_Modelling the dynamics of switched reluctance moto",
+          "rank": 50,
+          "selected": false
+        }
+      ]
+    },
+    "ranking_evidence_sha256": "e47ce88caa45574928521a02e8423af9ddd7639b0eac691b2203c05d8065110b",
+    "ranking_rows": [
+      {
+        "cluster": "2",
+        "density_distance": "0.5975570340359427",
+        "noise_flag": "False",
+        "program": "102054_Three Phase Grid Connected Inverter"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.26088407515736034",
+        "noise_flag": "False",
+        "program": "104120_DESIGN OF DC MICROGRID"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6027335527077512",
+        "noise_flag": "False",
+        "program": "104295_uncertain dual arm robots controller"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.4024081762227016",
+        "noise_flag": "False",
+        "program": "104370_DC dc and AC dc converters grid connected"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.7018617926938313",
+        "noise_flag": "False",
+        "program": "107105_Closed_loop_three_phase_VSI_Inverter.slx"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6102236139884287",
+        "noise_flag": "False",
+        "program": "109059_PMSM Wind Turbine"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6835889718399027",
+        "noise_flag": "False",
+        "program": "109510_Single-Phase Grid Connected DC-AC Inverter"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6219361454448719",
+        "noise_flag": "False",
+        "program": "111090_Single phase DC - AC Matrix converter fed IM drive"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.4114142631337631",
+        "noise_flag": "False",
+        "program": "111315_5 Level Diode clamped Inverter"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.6839627733927299",
+        "noise_flag": "False",
+        "program": "115035_Induction Motor Protection"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6508884281293816",
+        "noise_flag": "False",
+        "program": "117350_Full thermal network model of the SMOG-1 picosatel"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5252548488639521",
+        "noise_flag": "False",
+        "program": "121957_Converter control mode change"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.37888192729052245",
+        "noise_flag": "False",
+        "program": "122537_Three-level NPC inverter in MATLAB_Simulink"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5532214991713079",
+        "noise_flag": "False",
+        "program": "124180_DC motor position control using type E chopper"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.2946856374344064",
+        "noise_flag": "False",
+        "program": "125595_Three Phase Five Level Neutral Point Clamped Conve"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5848999410706645",
+        "noise_flag": "False",
+        "program": "126070_D-STATCOM Harmonic Compensation and Unity PF opera"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5236894868911073",
+        "noise_flag": "False",
+        "program": "126085_DSTATCOM IRPT theory Neutral Current and Load Unba"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.47281871245602997",
+        "noise_flag": "False",
+        "program": "126095_ZERO VOLTAGE REGULATION DSTATCOM using IRPT"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.18034141357108766",
+        "noise_flag": "False",
+        "program": "126330_Compensation by a D-STATCOM in d-q frame of a line"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5473116193142333",
+        "noise_flag": "False",
+        "program": "129809_Pitch-rate-controller-for-aircraft"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6835152118362872",
+        "noise_flag": "False",
+        "program": "130104_Island Microgrid Wind Turbine 150 kW"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.42104581498245125",
+        "noise_flag": "False",
+        "program": "131024_Wavelet Transformer Based power system fault Detec"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6690892771537362",
+        "noise_flag": "False",
+        "program": "131209_PFC boost"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6026656450609537",
+        "noise_flag": "False",
+        "program": "131394_abc to alphaBetaGamma_dq Conversion"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.6195976989975331",
+        "noise_flag": "False",
+        "program": "132458_Three Phase Transformer Open Circuit Test"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.5741601782555554",
+        "noise_flag": "False",
+        "program": "132463_Three Phase Transformer Short Circuit Test"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.6306494612638922",
+        "noise_flag": "False",
+        "program": "134641_Cascaded 5-level Multi_level Inverter"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5933281873562157",
+        "noise_flag": "False",
+        "program": "134711_Open loop control of three-phase induction motor"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.4804397422102436",
+        "noise_flag": "False",
+        "program": "135241_EV AC Charger Load Double Tuned Harmonic Filter"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6014673129717825",
+        "noise_flag": "False",
+        "program": "136409_V_f _control of Induction motor_SLIP regulation_Mo"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.43810685804645183",
+        "noise_flag": "False",
+        "program": "155787_Transformer Differential Protection"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.17981435024837986",
+        "noise_flag": "False",
+        "program": "158736_Harmonic Benchmark Test System"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5636962225749136",
+        "noise_flag": "False",
+        "program": "161061_VSG grid connected simulation with no load"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.45161403541874684",
+        "noise_flag": "False",
+        "program": "161276_Virtual_synchronous_generator_control"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6840045182965969",
+        "noise_flag": "False",
+        "program": "168146_PFC with hysterisis control"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.35332566044743235",
+        "noise_flag": "False",
+        "program": "171989_Wind solar microgrid"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.4260400200347365",
+        "noise_flag": "False",
+        "program": "174025_Voltage Source Inverter"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.7112706735716053",
+        "noise_flag": "False",
+        "program": "174470_PLL based boost Power Factor Correction PFC"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6278853689910359",
+        "noise_flag": "False",
+        "program": "174730_speed control of PMSM using hybrid multilevel inve"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6873597441343934",
+        "noise_flag": "False",
+        "program": "174815_SEPIC Power Factor Correction PFC"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6642607618681664",
+        "noise_flag": "False",
+        "program": "174890_Totem Pole Power Factor Correction PFC"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.6311392374724686",
+        "noise_flag": "False",
+        "program": "175378_Three phase active front end PFC"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6602821414993195",
+        "noise_flag": "False",
+        "program": "175893_Speed control of SPMSM"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6846066589507396",
+        "noise_flag": "False",
+        "program": "176223_Closed loop control of Buck Boost PFC"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.5611153432457516",
+        "noise_flag": "False",
+        "program": "180915_pe-proj"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6739443802343893",
+        "noise_flag": "False",
+        "program": "180920_Closed loop of AC voltage controller"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5330883513824568",
+        "noise_flag": "False",
+        "program": "180928_Unbalance operation of induction motor with Genera"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5436371706394489",
+        "noise_flag": "False",
+        "program": "180933_Boost converter with neural network control"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.6108138291904195",
+        "noise_flag": "False",
+        "program": "180935_Closed loop control of boost converter with VSI"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.7182936603133986",
+        "noise_flag": "False",
+        "program": "180954_Armature_field control of DC motor with chopper _"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.6067021236010467",
+        "noise_flag": "False",
+        "program": "180971_Open and closed loop of LLC converter"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.7128022423441118",
+        "noise_flag": "False",
+        "program": "180983_Two-Area Fuzzy Load Frequency Controller in Simuli"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5550293279398945",
+        "noise_flag": "False",
+        "program": "180989_Dynamic braking of three phase induction motor"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6010358224383981",
+        "noise_flag": "False",
+        "program": "181057_Braking of induction motor based on plugging"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.7045354369342601",
+        "noise_flag": "False",
+        "program": "181060_Speed control of three phase induction motor based"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.430041263258885",
+        "noise_flag": "False",
+        "program": "181067_Multi-phase induction motor"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.6347652828688036",
+        "noise_flag": "False",
+        "program": "181068_Multi-pulse rectifier"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.5203287102608294",
+        "noise_flag": "False",
+        "program": "181069_Nine switch inverter"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.5920982317932211",
+        "noise_flag": "False",
+        "program": "181073_Open-circuit test of three-phase transformer"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5455616331324389",
+        "noise_flag": "False",
+        "program": "181076_Parallel phases of voltage source inverter"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5495833117968629",
+        "noise_flag": "False",
+        "program": "181082_Plugging of induction motor"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6155854036118397",
+        "noise_flag": "False",
+        "program": "181084_Single-phase half-wave controlled rectifier"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.330526632325379",
+        "noise_flag": "False",
+        "program": "181110_Simplified split source inverter"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.46753835561143336",
+        "noise_flag": "False",
+        "program": "181114_Split source inverter"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.5133751694005652",
+        "noise_flag": "False",
+        "program": "181116_T-type inverter"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.4712909404442888",
+        "noise_flag": "False",
+        "program": "181117_Star-delta starting of induction motor"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6464203987578925",
+        "noise_flag": "False",
+        "program": "181140_aaa"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.2149284494673278",
+        "noise_flag": "False",
+        "program": "181197_Twelve switch split source inverter"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.3191767636226362",
+        "noise_flag": "False",
+        "program": "181198_Nine switch split source inverter"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5499686781131745",
+        "noise_flag": "False",
+        "program": "181207_PV System with SEPIC Converter"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.5981926011284452",
+        "noise_flag": "False",
+        "program": "181275_Closed loop boost converter with voltage source in"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.5579033493789674",
+        "noise_flag": "False",
+        "program": "181276_closed loop boost converter with VSI and transform"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5645717132912002",
+        "noise_flag": "False",
+        "program": "181405_Vienna rectifier"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.6574081020122096",
+        "noise_flag": "False",
+        "program": "181486_Speed_control_2Phase_Steppermotor_Permanent magnet"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5694416589052391",
+        "noise_flag": "False",
+        "program": "181700_dual active bridge converter with half bridge conf"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5233024325157882",
+        "noise_flag": "False",
+        "program": "181915_Power factor correction techniques for AC to DC sy"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5994440937352326",
+        "noise_flag": "False",
+        "program": "182238_Model of operation modes for vertical mine lifts"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.5607483810863494",
+        "noise_flag": "False",
+        "program": "182311_Low-THD Three-Leg Inverter with Variable Modulatio"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.20539573631949806",
+        "noise_flag": "False",
+        "program": "182773_12-Pulse Converter for HVDC Transmission Line"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6557569316358959",
+        "noise_flag": "False",
+        "program": "182881_Closed-Loop Control of Single-Phase Grid Inverter"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.6289984059585836",
+        "noise_flag": "False",
+        "program": "182931_Grid Following Solar PV Array with Inverter Contro"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.652849131769662",
+        "noise_flag": "False",
+        "program": "182954_Active Power Factor Correction Using Boost Convert"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5414444576016565",
+        "noise_flag": "False",
+        "program": "182976_Sheppard Taylor Power Factor Correction"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.44406821617474573",
+        "noise_flag": "False",
+        "program": "183076_Closed Loop Flyback Converter"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.437972331641033",
+        "noise_flag": "False",
+        "program": "183186_Selective Harmonic Elimination"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.26198447154964183",
+        "noise_flag": "False",
+        "program": "183244_Flying Capacitor Multilevel converter"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.3650263419081395",
+        "noise_flag": "False",
+        "program": "183271_PFC Based EV Charger With Controlled Battery Charg"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.47995564047590394",
+        "noise_flag": "False",
+        "program": "183282_Solar Fed Dual Active Bridge Converter with MPPT"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.7376745989188584",
+        "noise_flag": "False",
+        "program": "18812_Nodose neuron action potential firing"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6983071181681951",
+        "noise_flag": "False",
+        "program": "20711_Ventricular guinea-pig action potential"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6738010328650276",
+        "noise_flag": "False",
+        "program": "2412_Herr Klaus"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6656783345747007",
+        "noise_flag": "False",
+        "program": "24396_Inversor de dois Niveis com modula\u00e7\u00e3o por largura"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.27447541348322774",
+        "noise_flag": "False",
+        "program": "26013_HEARTVI1 WITH SIMULINK NEW BLOCK LIBRARY"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.2659310945706854",
+        "noise_flag": "False",
+        "program": "26037_Annihilation Of Cardiac Rythm And Sudden Death"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.4182598959925031",
+        "noise_flag": "False",
+        "program": "26298_Sinusal Stimulation Of HEARTVI19 Simulink And Arrh"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.31036989893461975",
+        "noise_flag": "False",
+        "program": "26402_HEART VI1 SIMULATOR SIMULINK-Version 10"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.28951339862399483",
+        "noise_flag": "False",
+        "program": "26438_HEART VI1 SIMULATOR-INVESTIGATION 12-MONITORING"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.3123212743862233",
+        "noise_flag": "False",
+        "program": "26460_HeartVI1 Simulink Investigation 17-Monitoring"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.3891083027264063",
+        "noise_flag": "False",
+        "program": "26462_Heart VI1 Simulator Simulink in Investigation 19_M"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.26081659703813703",
+        "noise_flag": "False",
+        "program": "26463_Heart Vi1 Simulator Simulink Investigation 20-Moni"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.2978088850065484",
+        "noise_flag": "False",
+        "program": "26464_Heart Vi1 Simulator Simulink in Investigation 21-M"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.3650791366453122",
+        "noise_flag": "False",
+        "program": "26465_Heart VI1 Simulator Simulink Investigation 22-Moni"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.47715561605180695",
+        "noise_flag": "False",
+        "program": "26561_Global Heart VI1 -Simulink-Monitoring-And CompiLin"
+      },
+      {
+        "cluster": "1",
+        "density_distance": "0.8602159118165502",
+        "noise_flag": "True",
+        "program": "26578_REENTRANCE VI1 Wuth Heart vI1 Simulator Simulink"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.5742052630201877",
+        "noise_flag": "False",
+        "program": "26579_Problems Of Compiling ProcessorHeart VI1 somulator"
+      },
+      {
+        "cluster": "1",
+        "density_distance": "0.8411823863384953",
+        "noise_flag": "False",
+        "program": "26601_Reentrance VI1-Heart VI1 Simulator Simulink"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.3343991926463237",
+        "noise_flag": "False",
+        "program": "26705_Le simulateur cardiaque VI1 simulink-monitoring N\u00b0"
+      },
+      {
+        "cluster": "1",
+        "density_distance": "0.8252215176942561",
+        "noise_flag": "False",
+        "program": "26735_Investigation 6 de Reentrance du simulateur cardia"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.3350663603107681",
+        "noise_flag": "False",
+        "program": "26912_HeartVI1 Simulator Simulink Investigation 27"
+      },
+      {
+        "cluster": "1",
+        "density_distance": "0.7972416353083747",
+        "noise_flag": "False",
+        "program": "26913_Reentrance Problems of Heart VI1 simulator simulin"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.6146206556846198",
+        "noise_flag": "False",
+        "program": "27247_Single Phase Cycloconverter"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.29972187195237254",
+        "noise_flag": "False",
+        "program": "27313_Three level three phase diode clamped SPWM inverte"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.3041655435467308",
+        "noise_flag": "False",
+        "program": "27334_HEART VI1 Simulator Simulink Investigation 28"
+      },
+      {
+        "cluster": "1",
+        "density_distance": "0.8347387267269056",
+        "noise_flag": "False",
+        "program": "27335_Heart VI1 simulator simulink Reentrance investigat"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5855250373728842",
+        "noise_flag": "False",
+        "program": "27362_Single Phase to Single Phase Step down Cycloconver"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.1565668414049266",
+        "noise_flag": "False",
+        "program": "27372_Five Level three phase Sinusoidal PWM based Diode"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6865489394368242",
+        "noise_flag": "False",
+        "program": "27373_Modified Sinusoidal PWM based Inverter"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.6119183169376332",
+        "noise_flag": "False",
+        "program": "27410_Step Up Cycloconverter"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.7317793376300562",
+        "noise_flag": "False",
+        "program": "27420_Boost Converter -- Close Loop"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.8042781088058143",
+        "noise_flag": "False",
+        "program": "27686_Sinosoidal PWM based three phase inverter -- Sawto"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.41956550422473077",
+        "noise_flag": "False",
+        "program": "29839_HeartVI1-30 Blocks Simulink"
+      },
+      {
+        "cluster": "1",
+        "density_distance": "0.8471761645708495",
+        "noise_flag": "False",
+        "program": "29840_Reentrance VI1-10 Heart Vi1 Block Simulink"
+      },
+      {
+        "cluster": "1",
+        "density_distance": "0.8552498940477178",
+        "noise_flag": "True",
+        "program": "29850_Reentrance VI1-file 11"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.45061277069814454",
+        "noise_flag": "False",
+        "program": "29868_Heart VI1-block simulink-N\u00b033"
+      },
+      {
+        "cluster": "1",
+        "density_distance": "0.8257413733589168",
+        "noise_flag": "False",
+        "program": "29869_Reentrance VI1 Heart VI1 block simulink-N\u00b013"
+      },
+      {
+        "cluster": "3",
+        "density_distance": "0.402849358974807",
+        "noise_flag": "False",
+        "program": "29902_Heart VI1 Block Simulink-file 36"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.8602980639504394",
+        "noise_flag": "True",
+        "program": "30241_Three Phase Sinusoidal PWM"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.7044857710923328",
+        "noise_flag": "False",
+        "program": "30503_Space vector PWM for 3 leg inverters"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.67525736358492",
+        "noise_flag": "False",
+        "program": "30528_Carrier Wave 3 leg inverter"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.5130734235124212",
+        "noise_flag": "False",
+        "program": "32281_Controllable Inverter_"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5538502007327587",
+        "noise_flag": "False",
+        "program": "32590_12 pulse Rectifier"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.7286654399401995",
+        "noise_flag": "False",
+        "program": "32983_Space Vector Pulse Width Modulation Based Three Ph"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.510559730022282",
+        "noise_flag": "False",
+        "program": "33738_Hybrid 31Level Inverter"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.192270282657214",
+        "noise_flag": "False",
+        "program": "33741_Three phase 27Level inverter with Single DC source"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.533355841784211",
+        "noise_flag": "False",
+        "program": "35844_SVPWM based speed control of PMSM with  3-level In"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.537800416865152",
+        "noise_flag": "False",
+        "program": "35911_SVPWM based speed control of Induction Motor with"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5982213956636061",
+        "noise_flag": "False",
+        "program": "35963_IEEE 1459-2000"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.553603205205536",
+        "noise_flag": "False",
+        "program": "35966_Simulink model of SPWM based single phase inverter"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.3553059563788178",
+        "noise_flag": "False",
+        "program": "36334_A New 81 Level inverter"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.5247453837742915",
+        "noise_flag": "False",
+        "program": "36691_1-Phase to 3-Phase Power Conversion using SPWM con"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.4006063493693626",
+        "noise_flag": "False",
+        "program": "36722_3-phase Induction Motor Drive"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.5958631962316391",
+        "noise_flag": "False",
+        "program": "37124_Three Phase SPWM"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.5527788287020642",
+        "noise_flag": "False",
+        "program": "37756_3PHASE BRIDGE INVERTER 120 DEGREE MODE"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.6307526383533345",
+        "noise_flag": "False",
+        "program": "38020_Multilevel inverter with reverse voltage technique"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.4385789969247322",
+        "noise_flag": "False",
+        "program": "38021_Single stage high power factor AC-DC converter"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5289265859873259",
+        "noise_flag": "False",
+        "program": "38045_non   isolated dc dc zvzcs converter"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.6325513499051458",
+        "noise_flag": "False",
+        "program": "38267_Speed Control Of DC motor using 3phase fully contr"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.3345090132187078",
+        "noise_flag": "False",
+        "program": "38292_Z source Multi level inverter"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.5462734901083547",
+        "noise_flag": "False",
+        "program": "38348_Three phase Stacom, Active front end rectifier and"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.687644426727029",
+        "noise_flag": "False",
+        "program": "38804_PMSM simulation"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.6812432550995545",
+        "noise_flag": "False",
+        "program": "38820_Sinusoidal Buck Boost AC Voltage Controller"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.6436319898569779",
+        "noise_flag": "False",
+        "program": "39404_Induction Motor connected through Matrix converter"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.39190003705990994",
+        "noise_flag": "False",
+        "program": "39410_Closed loop V_F based speed control of Induction M"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6208862641947527",
+        "noise_flag": "False",
+        "program": "39587_Three Phase AC Voltage Controller"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5194530319134085",
+        "noise_flag": "False",
+        "program": "39809_Regenerative braking mode of Chopper Controlled DC"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.47480145269781693",
+        "noise_flag": "False",
+        "program": "41833_Detailed Modelling of a 1.5MW Wind Turbine based o"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5843382676819038",
+        "noise_flag": "False",
+        "program": "42155_Direct Torque Control of an Induction Motor"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.32502093978044744",
+        "noise_flag": "False",
+        "program": "42627_Shunt Active Power Filter"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.4937121183228276",
+        "noise_flag": "False",
+        "program": "42792_Multilevel Inverter"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.2881475927860773",
+        "noise_flag": "False",
+        "program": "42850_Indirect Matrix Converter with unity voltage trans"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.6923305101598404",
+        "noise_flag": "False",
+        "program": "42931_Nine Level inverter"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.3159834636067611",
+        "noise_flag": "False",
+        "program": "42938_SVPWM based Open Loop Speed Control of PMSM with M"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.34785667861432534",
+        "noise_flag": "False",
+        "program": "42939_SVPWM Based Closed Loop Speed Control of PMSM with"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.19139519553579082",
+        "noise_flag": "False",
+        "program": "43091_Shunt Active Power Filter"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.34098112092738764",
+        "noise_flag": "False",
+        "program": "43252_Three state switching cell boost converter with co"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.632234655453862",
+        "noise_flag": "False",
+        "program": "43362_Closed Loop three phase boost converter"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.6508582497845753",
+        "noise_flag": "False",
+        "program": "43405_Three Phase Buck Converter"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.5002562414484325",
+        "noise_flag": "False",
+        "program": "43673_Modelling the dynamics of switched reluctance moto"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.621429815870527",
+        "noise_flag": "False",
+        "program": "43940_Three Phase SPWM Inverter"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.49722247216136517",
+        "noise_flag": "False",
+        "program": "44142_SPWM for five leg inverter"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.4401636092470682",
+        "noise_flag": "False",
+        "program": "44476_power quality improvement using shunt APF"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.7240702039310751",
+        "noise_flag": "False",
+        "program": "44612_Hysteresis Current Controlled Single phase Grid-Co"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.43029794297506535",
+        "noise_flag": "False",
+        "program": "44623_Constant boost control implementation"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.5188672275172374",
+        "noise_flag": "False",
+        "program": "44676_3 Phase Inverter"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.5551028603991909",
+        "noise_flag": "False",
+        "program": "44787_Three Phase SVPWM Inverter"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5300710327409812",
+        "noise_flag": "False",
+        "program": "45154_Multilevel Inverter"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5178435447272448",
+        "noise_flag": "False",
+        "program": "45772_DFIG with simplified crowbar"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.1969508094249932",
+        "noise_flag": "False",
+        "program": "46067_IEEE 14 Bus System Simulink Model"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.6922842900711321",
+        "noise_flag": "False",
+        "program": "46085_fivel level inverter"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.4519540811520263",
+        "noise_flag": "False",
+        "program": "46925_PMSG_detailed.mdl"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.6900619065089888",
+        "noise_flag": "False",
+        "program": "47323_9 level cascaded multilevel inverter"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5298290241145911",
+        "noise_flag": "False",
+        "program": "47495_Gasturbine.zip"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.5423348573938003",
+        "noise_flag": "False",
+        "program": "47671_Three Phase Inverter Using Space Vector PWM Genera"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.16101682056528124",
+        "noise_flag": "False",
+        "program": "47707_Sistema de potencia con 4 generadores sincronos"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.16647016132240203",
+        "noise_flag": "False",
+        "program": "47727_MLPSEVEN.slx"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.30059576665976423",
+        "noise_flag": "False",
+        "program": "48430_12 Pulse Rectifier"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.27379391786064167",
+        "noise_flag": "False",
+        "program": "49848_induction motor fault detection"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5838948364838814",
+        "noise_flag": "False",
+        "program": "50011_Z Source Inverter with simple boost"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.23584374232896393",
+        "noise_flag": "False",
+        "program": "50045_Cascaded 3-level Inverter"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.23527486737379158",
+        "noise_flag": "False",
+        "program": "50117_Multi Machine Stability"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.44889786234622575",
+        "noise_flag": "False",
+        "program": "50396_3 PHASE RECTIFIER WITH 3 PHASE INVERTER"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.7987886837432752",
+        "noise_flag": "False",
+        "program": "50834_dc motor"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.6307314510317882",
+        "noise_flag": "False",
+        "program": "51027_Space Vector Modulation for 3 phase 2-level invert"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5335115368498901",
+        "noise_flag": "False",
+        "program": "51929_Voltage Sag Caused by Induction Motor Starting"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.7041551698822635",
+        "noise_flag": "False",
+        "program": "53315_Z-Source Inverter_Simple Boost Control"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.7119307505545626",
+        "noise_flag": "False",
+        "program": "53327_Z-Source Inverter_Maximum Boost Control_Open loop"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.4075241117708243",
+        "noise_flag": "False",
+        "program": "54148_Grid connected three phase PV inverter using PWM t"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.5191349412916245",
+        "noise_flag": "False",
+        "program": "54690_three phase voltage regulator"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.35443027723131865",
+        "noise_flag": "False",
+        "program": "54741_twelve pulse rectifier AC_DC"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.702682219450449",
+        "noise_flag": "False",
+        "program": "54742_six pulse controlled rectifier"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.4353366539908645",
+        "noise_flag": "False",
+        "program": "55544_self_excited_induction_generator"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5988608473750824",
+        "noise_flag": "False",
+        "program": "55653_Space vector modulation for 3 phase inverter"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.6311392374724686",
+        "noise_flag": "False",
+        "program": "55816_Three Phase AC Voltage Controller Model"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6690478144659728",
+        "noise_flag": "False",
+        "program": "56431_full_bridge_bipolar_pwm_dc_dc_converter_loading_dc"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5431707657494488",
+        "noise_flag": "False",
+        "program": "56998_Doubly-fed Induction Machine"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.523705769964809",
+        "noise_flag": "False",
+        "program": "57976_space vector pwm for inverter"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.7554464495398923",
+        "noise_flag": "False",
+        "program": "60021_PSEUDOLINEAR EPLL"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.5592974017219114",
+        "noise_flag": "False",
+        "program": "60249_Seventeel Level Inverter"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.42151064663839133",
+        "noise_flag": "False",
+        "program": "60250_Fifteen Level Inverter"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.4692449762779611",
+        "noise_flag": "False",
+        "program": "60251_Eleven level Inverter"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.5929310710649202",
+        "noise_flag": "False",
+        "program": "60252_Fifteen Level Inverter with PWM control"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5770845734058995",
+        "noise_flag": "False",
+        "program": "61782_Single phase STATCOM"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.3042899416803351",
+        "noise_flag": "False",
+        "program": "62006_Three Phase Shunt Active Power Filter using dq0 tr"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6615674825838657",
+        "noise_flag": "False",
+        "program": "62121_Power Filter For Boost Converter"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.24358889720834656",
+        "noise_flag": "False",
+        "program": "62168_Shunt Active Power Filter"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5042909838143074",
+        "noise_flag": "False",
+        "program": "62259_solar powered simplified multi level inverter"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5542408463392715",
+        "noise_flag": "False",
+        "program": "62260_fifteen level inverter"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.7347392963868188",
+        "noise_flag": "False",
+        "program": "62334_Three Phase SPWM Boost Rectifier with Closed Loop"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.40876786582690333",
+        "noise_flag": "False",
+        "program": "62372_Three phase SPWM Buck Rectifier"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.7534867328254926",
+        "noise_flag": "False",
+        "program": "62477_Power Filter For Full Wave Rectifier"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.5773333291004119",
+        "noise_flag": "False",
+        "program": "62532_NINE_LEVEL_CASCADED_H_BRIDGE_SINGLE_PHASE_INVERTER"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.4871213000425797",
+        "noise_flag": "False",
+        "program": "62747_Single Phase Shunt Active Power Filter"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5376038878949411",
+        "noise_flag": "False",
+        "program": "62945_The GridSide converter of DFIG"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5608354782111672",
+        "noise_flag": "False",
+        "program": "63105_Speed control of Cycloconverter fed Asynchronous M"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6837360742697454",
+        "noise_flag": "False",
+        "program": "63837_Vector Control of Permanent Magnet Synchronous Mot"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.34985423430817847",
+        "noise_flag": "False",
+        "program": "64063_Series Active Filter"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.4785580648745031",
+        "noise_flag": "False",
+        "program": "64109_Single Phase Dynamic Voltage Restorer"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5917267054203278",
+        "noise_flag": "False",
+        "program": "64545_vehicle 14 dof simulink model"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.4758410323052537",
+        "noise_flag": "False",
+        "program": "64893_Differential digital protection for three phase tr"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.5678594949721",
+        "noise_flag": "False",
+        "program": "65467_Comparison of Three-Phase Transformer Bank and Thr"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.48232722546328044",
+        "noise_flag": "False",
+        "program": "65961_DSTATCOM for Improved equal current approach for r"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5897046599513525",
+        "noise_flag": "False",
+        "program": "66474_PSEUDORANDOM PWM FOR MULTILEVEL INVERTER"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6132403026277421",
+        "noise_flag": "False",
+        "program": "66548_SPWM BASED SINGLE PHASE INDUCTION MOTOR DRIVE USIN"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5450942044754419",
+        "noise_flag": "False",
+        "program": "66830_Induction motor driven by DC machine Power factor"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.565176969843351",
+        "noise_flag": "False",
+        "program": "66833_Open Circuit Test - Induction Motor"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.19294698771166982",
+        "noise_flag": "False",
+        "program": "67231_Simulation Analysis of Stability Problem in Wind G"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.2134910485012609",
+        "noise_flag": "False",
+        "program": "67690_IEEE 30-bus system standard"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6031827309412044",
+        "noise_flag": "False",
+        "program": "69061_boost converter for a micro wind turbine"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5355917137575523",
+        "noise_flag": "False",
+        "program": "69064_PV and Battery system"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.522315685721309",
+        "noise_flag": "False",
+        "program": "69288_Quasi Z-Source AC-AC Converter"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.6295231629740573",
+        "noise_flag": "False",
+        "program": "70176_Open Loop Speed Control of Induction Motor using V"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.5238855667873836",
+        "noise_flag": "False",
+        "program": "70310_Three phase diode rectifier model- Power Factor ca"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5566458088161943",
+        "noise_flag": "False",
+        "program": "71248_Asynchronous motor model fed through an inverter"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5520323280183297",
+        "noise_flag": "False",
+        "program": "71818_Subsynchronous resonance of wind farm in DFIG"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.5575331591850626",
+        "noise_flag": "False",
+        "program": "72464_space vector modulation of three phase inverter"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.7884666179596183",
+        "noise_flag": "False",
+        "program": "72533_Grid connected single phase inverter control using"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.6862402789410588",
+        "noise_flag": "False",
+        "program": "72702_Grid connected three phase inverter control using"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5297710500222917",
+        "noise_flag": "False",
+        "program": "72709_Three phase STATCOM using D-Q control"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6969098841015929",
+        "noise_flag": "False",
+        "program": "72728_Dual output buck dc-dc converter with inner curren"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.4989761706171354",
+        "noise_flag": "False",
+        "program": "72735_Three phase active power filter"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.6705825750170576",
+        "noise_flag": "False",
+        "program": "72775_Space vector control of three phase inverter using"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.597336044751011",
+        "noise_flag": "False",
+        "program": "72776_Three phase unity power factor rectifier using d-q"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.7750927207656693",
+        "noise_flag": "False",
+        "program": "72810_SEDCM Chopper Drive"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6620127150111128",
+        "noise_flag": "False",
+        "program": "72811_UDQ STATCOM APF 1P"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.43547484573595024",
+        "noise_flag": "False",
+        "program": "72988_Variable Voltage Variable Frequency ac-ac converte"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.4613776127167668",
+        "noise_flag": "False",
+        "program": "72990_Variable Voltage Variable Frequency isolated ac-ac"
+      },
+      {
+        "cluster": "4",
+        "density_distance": "0.6656355607123505",
+        "noise_flag": "False",
+        "program": "73072_Three Phase Fully Contolled Bridge Rectifier"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.47281871245602997",
+        "noise_flag": "False",
+        "program": "73196_Field Oriented Control of Induction Motor"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.4082762005532363",
+        "noise_flag": "False",
+        "program": "73229_Three Phase Solar Photo-voltaic System Control"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5191377390131041",
+        "noise_flag": "False",
+        "program": "73469_1.5MW WIND GENERATION PLANT"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.43217906893090163",
+        "noise_flag": "False",
+        "program": "73743_12-Pulse Diode Rectifier"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.4359805071067956",
+        "noise_flag": "False",
+        "program": "73831_SSR damping in a DFIG-based wind farm by adding SD"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.5567406856141391",
+        "noise_flag": "False",
+        "program": "74449_Three phase SPWM Inverter"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6915473789301234",
+        "noise_flag": "False",
+        "program": "77681_Temperature based Speed Control of BLDC Fan"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.6498984200714023",
+        "noise_flag": "False",
+        "program": "77780_Open Loop Controlled DC Chopper Drive"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.7075054184116919",
+        "noise_flag": "False",
+        "program": "77849_CDSC based PLL"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.7572077362049449",
+        "noise_flag": "False",
+        "program": "77852_MDSC based PLL"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5245036516674311",
+        "noise_flag": "False",
+        "program": "79143_11-Level Multilevel Inverter with Reduced Number o"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.4496164045900601",
+        "noise_flag": "False",
+        "program": "79298_IEEE 69 Bus with 10 MW Loads"
+      },
+      {
+        "cluster": "2",
+        "density_distance": "0.513011508375999",
+        "noise_flag": "False",
+        "program": "79424_Improved Z-Source Inverter"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.21246466837741998",
+        "noise_flag": "False",
+        "program": "80065_Load Flow analysis of IEEE 14 bus test system"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.43267953028392303",
+        "noise_flag": "False",
+        "program": "80248_220V, 50 Hz, Shunt Active Filter"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.5071934018799167",
+        "noise_flag": "False",
+        "program": "80347_PV Fed Three Level Cascaded MLI"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.48554566142893335",
+        "noise_flag": "False",
+        "program": "82450_HYDEL PMSG"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.502221283060107",
+        "noise_flag": "False",
+        "program": "83948_Visualize droop characteristic of Synchronous gene"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.4937446134861309",
+        "noise_flag": "False",
+        "program": "85618_Three phase rectifier closed loop voltage controll"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6750671976966588",
+        "noise_flag": "False",
+        "program": "88071_Speed Control of BLDC with Drive Cycle"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.4327725690810135",
+        "noise_flag": "False",
+        "program": "88562_Three Phase Rectifier with LC Filter and Buck Conv"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.3959263950764246",
+        "noise_flag": "False",
+        "program": "89481_three phase Vienna rectifier"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.6219083015343494",
+        "noise_flag": "False",
+        "program": "92188_12 pulse Converter for SMES"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.4943938610171425",
+        "noise_flag": "False",
+        "program": "94480_12 Pulse Diode Rectifier"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.5980857388437227",
+        "noise_flag": "False",
+        "program": "95053_Speed Control of BLDC Motor using Current Controll"
+      },
+      {
+        "cluster": "0",
+        "density_distance": "0.6115256397108246",
+        "noise_flag": "False",
+        "program": "97147_Half Bridge LLC Resonant Converter"
+      },
+      {
+        "cluster": "6",
+        "density_distance": "0.2797109434314599",
+        "noise_flag": "False",
+        "program": "98574_18-Pulse Diode Rectifier"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6494169546507111",
+        "noise_flag": "False",
+        "program": "98594_Electric Railway DC 750V Traction Power Supply Sys"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.6561120011109642",
+        "noise_flag": "False",
+        "program": "98909_Active Harmonic Filter for Electric Railway Medium"
+      },
+      {
+        "cluster": "5",
+        "density_distance": "0.47480145269781693",
+        "noise_flag": "False",
+        "program": "99164_Sensor Less Field Oriented Control of Induction Mo"
+      }
+    ],
+    "rule": "top min(30,n_core) by existing 10-nearest-neighbor distance ascending; exact numeric ties by full program ID Unicode code-point ascending",
+    "selected_counts": [
+      30,
+      6,
+      26,
+      18,
+      22,
+      30,
+      30
+    ],
+    "selected_members": {
+      "0": [
+        "36334_A New 81 Level inverter",
+        "122537_Three-level NPC inverter in MATLAB_Simulink",
+        "104370_DC dc and AC dc converters grid connected",
+        "131024_Wavelet Transformer Based power system fault Detec",
+        "174025_Voltage Source Inverter",
+        "181067_Multi-phase induction motor",
+        "44623_Constant boost control implementation",
+        "80248_220V, 50 Hz, Shunt Active Filter",
+        "72988_Variable Voltage Variable Frequency ac-ac converte",
+        "73831_SSR damping in a DFIG-based wind farm by adding SD",
+        "183186_Selective Harmonic Elimination",
+        "155787_Transformer Differential Protection",
+        "38021_Single stage high power factor AC-DC converter",
+        "44476_power quality improvement using shunt APF",
+        "183076_Closed Loop Flyback Converter",
+        "50396_3 PHASE RECTIFIER WITH 3 PHASE INVERTER",
+        "161276_Virtual_synchronous_generator_control",
+        "72990_Variable Voltage Variable Frequency isolated ac-ac",
+        "60251_Eleven level Inverter",
+        "64893_Differential digital protection for three phase tr",
+        "183282_Solar Fed Dual Active Bridge Converter with MPPT",
+        "135241_EV AC Charger Load Double Tuned Harmonic Filter",
+        "65961_DSTATCOM for Improved equal current approach for r",
+        "62747_Single Phase Shunt Active Power Filter",
+        "44142_SPWM for five leg inverter",
+        "72735_Three phase active power filter",
+        "62259_solar powered simplified multi level inverter",
+        "80347_PV Fed Three Level Cascaded MLI",
+        "39809_Regenerative braking mode of Chopper Controlled DC",
+        "69288_Quasi Z-Source AC-AC Converter"
+      ],
+      "1": [
+        "26913_Reentrance Problems of Heart VI1 simulator simulin",
+        "26735_Investigation 6 de Reentrance du simulateur cardia",
+        "29869_Reentrance VI1 Heart VI1 block simulink-N\u00b013",
+        "27335_Heart VI1 simulator simulink Reentrance investigat",
+        "26601_Reentrance VI1-Heart VI1 Simulator Simulink",
+        "29840_Reentrance VI1-10 Heart Vi1 Block Simulink"
+      ],
+      "2": [
+        "181114_Split source inverter",
+        "79424_Improved Z-Source Inverter",
+        "32281_Controllable Inverter_",
+        "181116_T-type inverter",
+        "44676_3 Phase Inverter",
+        "181069_Nine switch inverter",
+        "47671_Three Phase Inverter Using Space Vector PWM Genera",
+        "37756_3PHASE BRIDGE INVERTER 120 DEGREE MODE",
+        "35966_Simulink model of SPWM based single phase inverter",
+        "44787_Three Phase SVPWM Inverter",
+        "74449_Three phase SPWM Inverter",
+        "72464_space vector modulation of three phase inverter",
+        "181276_closed loop boost converter with VSI and transform",
+        "60249_Seventeel Level Inverter",
+        "182311_Low-THD Three-Leg Inverter with Variable Modulatio",
+        "180915_pe-proj",
+        "62532_NINE_LEVEL_CASCADED_H_BRIDGE_SINGLE_PHASE_INVERTER",
+        "60252_Fifteen Level Inverter with PWM control",
+        "102054_Three Phase Grid Connected Inverter",
+        "181275_Closed loop boost converter with voltage source in",
+        "180935_Closed loop control of boost converter with VSI",
+        "43940_Three Phase SPWM Inverter",
+        "182931_Grid Following Solar PV Array with Inverter Contro",
+        "134641_Cascaded 5-level Multi_level Inverter",
+        "72775_Space vector control of three phase inverter using",
+        "181060_Speed control of three phase induction motor based"
+      ],
+      "3": [
+        "26463_Heart Vi1 Simulator Simulink Investigation 20-Moni",
+        "26037_Annihilation Of Cardiac Rythm And Sudden Death",
+        "26013_HEARTVI1 WITH SIMULINK NEW BLOCK LIBRARY",
+        "26438_HEART VI1 SIMULATOR-INVESTIGATION 12-MONITORING",
+        "26464_Heart Vi1 Simulator Simulink in Investigation 21-M",
+        "27334_HEART VI1 Simulator Simulink Investigation 28",
+        "26402_HEART VI1 SIMULATOR SIMULINK-Version 10",
+        "26460_HeartVI1 Simulink Investigation 17-Monitoring",
+        "26705_Le simulateur cardiaque VI1 simulink-monitoring N\u00b0",
+        "26912_HeartVI1 Simulator Simulink Investigation 27",
+        "26465_Heart VI1 Simulator Simulink Investigation 22-Moni",
+        "26462_Heart VI1 Simulator Simulink in Investigation 19_M",
+        "29902_Heart VI1 Block Simulink-file 36",
+        "26298_Sinusal Stimulation Of HEARTVI19 Simulink And Arrh",
+        "29839_HeartVI1-30 Blocks Simulink",
+        "29868_Heart VI1-block simulink-N\u00b033",
+        "26561_Global Heart VI1 -Simulink-Monitoring-And CompiLin",
+        "26579_Problems Of Compiling ProcessorHeart VI1 somulator"
+      ],
+      "4": [
+        "54690_three phase voltage regulator",
+        "70310_Three phase diode rectifier model- Power Factor ca",
+        "36691_1-Phase to 3-Phase Power Conversion using SPWM con",
+        "38348_Three phase Stacom, Active front end rectifier and",
+        "65467_Comparison of Three-Phase Transformer Bank and Thr",
+        "132463_Three Phase Transformer Short Circuit Test",
+        "181073_Open-circuit test of three-phase transformer",
+        "37124_Three Phase SPWM",
+        "132458_Three Phase Transformer Open Circuit Test",
+        "70176_Open Loop Speed Control of Induction Motor using V",
+        "175378_Three phase active front end PFC",
+        "55816_Three Phase AC Voltage Controller Model",
+        "43362_Closed Loop three phase boost converter",
+        "38267_Speed Control Of DC motor using 3phase fully contr",
+        "39404_Induction Motor connected through Matrix converter",
+        "43405_Three Phase Buck Converter",
+        "181486_Speed_control_2Phase_Steppermotor_Permanent magnet",
+        "73072_Three Phase Fully Contolled Bridge Rectifier",
+        "46085_fivel level inverter",
+        "107105_Closed_loop_three_phase_VSI_Inverter.slx",
+        "32983_Space Vector Pulse Width Modulation Based Three Ph",
+        "62334_Three Phase SPWM Boost Rectifier with Closed Loop"
+      ],
+      "5": [
+        "55544_self_excited_induction_generator",
+        "46925_PMSG_detailed.mdl",
+        "181117_Star-delta starting of induction motor",
+        "126095_ZERO VOLTAGE REGULATION DSTATCOM using IRPT",
+        "73196_Field Oriented Control of Induction Motor",
+        "41833_Detailed Modelling of a 1.5MW Wind Turbine based o",
+        "99164_Sensor Less Field Oriented Control of Induction Mo",
+        "64109_Single Phase Dynamic Voltage Restorer",
+        "82450_HYDEL PMSG",
+        "85618_Three phase rectifier closed loop voltage controll",
+        "83948_Visualize droop characteristic of Synchronous gene",
+        "33738_Hybrid 31Level Inverter",
+        "45772_DFIG with simplified crowbar",
+        "73469_1.5MW WIND GENERATION PLANT",
+        "57976_space vector pwm for inverter",
+        "47495_Gasturbine.zip",
+        "180928_Unbalance operation of induction motor with Genera",
+        "51929_Voltage Sag Caused by Induction Motor Starting",
+        "62945_The GridSide converter of DFIG",
+        "56998_Doubly-fed Induction Machine",
+        "66830_Induction motor driven by DC machine Power factor",
+        "129809_Pitch-rate-controller-for-aircraft",
+        "181082_Plugging of induction motor",
+        "124180_DC motor position control using type E chopper",
+        "180989_Dynamic braking of three phase induction motor",
+        "71248_Asynchronous motor model fed through an inverter",
+        "161061_VSG grid connected simulation with no load",
+        "66833_Open Circuit Test - Induction Motor",
+        "181700_dual active bridge converter with half bridge conf",
+        "61782_Single phase STATCOM"
+      ],
+      "6": [
+        "27372_Five Level three phase Sinusoidal PWM based Diode",
+        "47707_Sistema de potencia con 4 generadores sincronos",
+        "47727_MLPSEVEN.slx",
+        "158736_Harmonic Benchmark Test System",
+        "126330_Compensation by a D-STATCOM in d-q frame of a line",
+        "43091_Shunt Active Power Filter",
+        "33741_Three phase 27Level inverter with Single DC source",
+        "67231_Simulation Analysis of Stability Problem in Wind G",
+        "46067_IEEE 14 Bus System Simulink Model",
+        "182773_12-Pulse Converter for HVDC Transmission Line",
+        "80065_Load Flow analysis of IEEE 14 bus test system",
+        "67690_IEEE 30-bus system standard",
+        "181197_Twelve switch split source inverter",
+        "50117_Multi Machine Stability",
+        "50045_Cascaded 3-level Inverter",
+        "62168_Shunt Active Power Filter",
+        "104120_DESIGN OF DC MICROGRID",
+        "183244_Flying Capacitor Multilevel converter",
+        "49848_induction motor fault detection",
+        "98574_18-Pulse Diode Rectifier",
+        "42850_Indirect Matrix Converter with unity voltage trans",
+        "125595_Three Phase Five Level Neutral Point Clamped Conve",
+        "27313_Three level three phase diode clamped SPWM inverte",
+        "48430_12 Pulse Rectifier",
+        "62006_Three Phase Shunt Active Power Filter using dq0 tr",
+        "42938_SVPWM based Open Loop Speed Control of PMSM with M",
+        "181198_Nine switch split source inverter",
+        "42627_Shunt Active Power Filter",
+        "181110_Simplified split source inverter",
+        "38292_Z source Multi level inverter"
+      ]
+    },
+    "selected_total": 162
+  },
+  "feature_signature": "61bb0025299b9dbc7d15c5d738a31169e40b7ef879f30ab5dd5c58e5ec97a78c",
+  "global_contributor_count": 287,
+  "global_formula": "(1+sum_287_program_means)/(2+287)",
+  "noise_global_only": [
+    "26578_REENTRANCE VI1 Wuth Heart vI1 Simulator Simulink",
+    "29850_Reentrance VI1-file 11",
+    "30241_Three Phase Sinusoidal PWM"
+  ],
+  "policy": "COMP064_R5_literal287_global_density_top30_per_cluster",
+  "stable_model_identity": "2d904c7f32f25286fda7408fb7c92626e890c24101b828167392056480e77469",
+  "stable_model_sha256": "f526ed3e68ae39d14ff4af03fed850090d0a92055e03382d6a8d0aa7b5264485"
+}
