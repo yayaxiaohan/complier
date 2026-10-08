@@ -1,0 +1,97 @@
+cluster,rank,program,density_distance
+0,1,36334_A New 81 Level inverter,0.3553059563788178
+0,2,122537_Three-level NPC inverter in MATLAB_Simulink,0.37888192729052245
+0,3,104370_DC dc and AC dc converters grid connected,0.4024081762227016
+0,4,131024_Wavelet Transformer Based power system fault Detec,0.42104581498245125
+0,5,174025_Voltage Source Inverter,0.4260400200347365
+0,6,181067_Multi-phase induction motor,0.430041263258885
+0,7,44623_Constant boost control implementation,0.43029794297506535
+0,8,"80248_220V, 50 Hz, Shunt Active Filter",0.43267953028392303
+0,9,72988_Variable Voltage Variable Frequency ac-ac converte,0.43547484573595024
+0,10,73831_SSR damping in a DFIG-based wind farm by adding SD,0.4359805071067956
+0,11,183186_Selective Harmonic Elimination,0.437972331641033
+0,12,155787_Transformer Differential Protection,0.43810685804645183
+0,13,38021_Single stage high power factor AC-DC converter,0.4385789969247322
+0,14,44476_power quality improvement using shunt APF,0.4401636092470682
+0,15,183076_Closed Loop Flyback Converter,0.44406821617474573
+1,1,26913_Reentrance Problems of Heart VI1 simulator simulin,0.7972416353083747
+1,2,26735_Investigation 6 de Reentrance du simulateur cardia,0.8252215176942561
+1,3,29869_Reentrance VI1 Heart VI1 block simulink-N°13,0.8257413733589168
+1,4,27335_Heart VI1 simulator simulink Reentrance investigat,0.8347387267269056
+1,5,26601_Reentrance VI1-Heart VI1 Simulator Simulink,0.8411823863384953
+1,6,29840_Reentrance VI1-10 Heart Vi1 Block Simulink,0.8471761645708495
+2,1,181114_Split source inverter,0.46753835561143336
+2,2,79424_Improved Z-Source Inverter,0.513011508375999
+2,3,32281_Controllable Inverter_,0.5130734235124212
+2,4,181116_T-type inverter,0.5133751694005652
+2,5,44676_3 Phase Inverter,0.5188672275172374
+2,6,181069_Nine switch inverter,0.5203287102608294
+2,7,47671_Three Phase Inverter Using Space Vector PWM Genera,0.5423348573938003
+2,8,37756_3PHASE BRIDGE INVERTER 120 DEGREE MODE,0.5527788287020642
+2,9,35966_Simulink model of SPWM based single phase inverter,0.553603205205536
+2,10,44787_Three Phase SVPWM Inverter,0.5551028603991909
+2,11,74449_Three phase SPWM Inverter,0.5567406856141391
+2,12,72464_space vector modulation of three phase inverter,0.5575331591850626
+2,13,181276_closed loop boost converter with VSI and transform,0.5579033493789674
+2,14,60249_Seventeel Level Inverter,0.5592974017219114
+2,15,182311_Low-THD Three-Leg Inverter with Variable Modulatio,0.5607483810863494
+3,1,26463_Heart Vi1 Simulator Simulink Investigation 20-Moni,0.26081659703813703
+3,2,26037_Annihilation Of Cardiac Rythm And Sudden Death,0.2659310945706854
+3,3,26013_HEARTVI1 WITH SIMULINK NEW BLOCK LIBRARY,0.27447541348322774
+3,4,26438_HEART VI1 SIMULATOR-INVESTIGATION 12-MONITORING,0.28951339862399483
+3,5,26464_Heart Vi1 Simulator Simulink in Investigation 21-M,0.2978088850065484
+3,6,27334_HEART VI1 Simulator Simulink Investigation 28,0.3041655435467308
+3,7,26402_HEART VI1 SIMULATOR SIMULINK-Version 10,0.31036989893461975
+3,8,26460_HeartVI1 Simulink Investigation 17-Monitoring,0.3123212743862233
+3,9,26705_Le simulateur cardiaque VI1 simulink-monitoring N°,0.3343991926463237
+3,10,26912_HeartVI1 Simulator Simulink Investigation 27,0.3350663603107681
+3,11,26465_Heart VI1 Simulator Simulink Investigation 22-Moni,0.3650791366453122
+3,12,26462_Heart VI1 Simulator Simulink in Investigation 19_M,0.3891083027264063
+3,13,29902_Heart VI1 Block Simulink-file 36,0.402849358974807
+3,14,26298_Sinusal Stimulation Of HEARTVI19 Simulink And Arrh,0.4182598959925031
+3,15,29839_HeartVI1-30 Blocks Simulink,0.41956550422473077
+4,1,54690_three phase voltage regulator,0.5191349412916245
+4,2,70310_Three phase diode rectifier model- Power Factor ca,0.5238855667873836
+4,3,36691_1-Phase to 3-Phase Power Conversion using SPWM con,0.5247453837742915
+4,4,"38348_Three phase Stacom, Active front end rectifier and",0.5462734901083547
+4,5,65467_Comparison of Three-Phase Transformer Bank and Thr,0.5678594949721
+4,6,132463_Three Phase Transformer Short Circuit Test,0.5741601782555554
+4,7,181073_Open-circuit test of three-phase transformer,0.5920982317932211
+4,8,37124_Three Phase SPWM,0.5958631962316391
+4,9,132458_Three Phase Transformer Open Circuit Test,0.6195976989975331
+4,10,70176_Open Loop Speed Control of Induction Motor using V,0.6295231629740573
+4,11,175378_Three phase active front end PFC,0.6311392374724686
+4,12,55816_Three Phase AC Voltage Controller Model,0.6311392374724686
+4,13,43362_Closed Loop three phase boost converter,0.632234655453862
+4,14,38267_Speed Control Of DC motor using 3phase fully contr,0.6325513499051458
+4,15,39404_Induction Motor connected through Matrix converter,0.6436319898569779
+5,1,55544_self_excited_induction_generator,0.4353366539908645
+5,2,46925_PMSG_detailed.mdl,0.4519540811520263
+5,3,181117_Star-delta starting of induction motor,0.4712909404442888
+5,4,126095_ZERO VOLTAGE REGULATION DSTATCOM using IRPT,0.47281871245602997
+5,5,73196_Field Oriented Control of Induction Motor,0.47281871245602997
+5,6,41833_Detailed Modelling of a 1.5MW Wind Turbine based o,0.47480145269781693
+5,7,99164_Sensor Less Field Oriented Control of Induction Mo,0.47480145269781693
+5,8,64109_Single Phase Dynamic Voltage Restorer,0.4785580648745031
+5,9,82450_HYDEL PMSG,0.48554566142893335
+5,10,85618_Three phase rectifier closed loop voltage controll,0.4937446134861309
+5,11,83948_Visualize droop characteristic of Synchronous gene,0.502221283060107
+5,12,33738_Hybrid 31Level Inverter,0.510559730022282
+5,13,45772_DFIG with simplified crowbar,0.5178435447272448
+5,14,73469_1.5MW WIND GENERATION PLANT,0.5191377390131041
+5,15,57976_space vector pwm for inverter,0.523705769964809
+6,1,27372_Five Level three phase Sinusoidal PWM based Diode,0.1565668414049266
+6,2,47707_Sistema de potencia con 4 generadores sincronos,0.16101682056528124
+6,3,47727_MLPSEVEN.slx,0.16647016132240203
+6,4,158736_Harmonic Benchmark Test System,0.17981435024837986
+6,5,126330_Compensation by a D-STATCOM in d-q frame of a line,0.18034141357108766
+6,6,43091_Shunt Active Power Filter,0.19139519553579082
+6,7,33741_Three phase 27Level inverter with Single DC source,0.192270282657214
+6,8,67231_Simulation Analysis of Stability Problem in Wind G,0.19294698771166982
+6,9,46067_IEEE 14 Bus System Simulink Model,0.1969508094249932
+6,10,182773_12-Pulse Converter for HVDC Transmission Line,0.20539573631949806
+6,11,80065_Load Flow analysis of IEEE 14 bus test system,0.21246466837741998
+6,12,67690_IEEE 30-bus system standard,0.2134910485012609
+6,13,181197_Twelve switch split source inverter,0.2149284494673278
+6,14,50117_Multi Machine Stability,0.23527486737379158
+6,15,50045_Cascaded 3-level Inverter,0.23584374232896393

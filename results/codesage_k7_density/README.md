@@ -7,6 +7,6 @@
 - Density rule: 10-nearest-neighbor distance; noise threshold `median + 3*MAD`
 - Core cluster sizes: `[67, 6, 26, 18, 22, 95, 50]`
 - Noise count: 3
-- Cluster-prior selected counts: `[30, 6, 26, 18, 22, 30, 30]`
+- Active cluster-prior selected counts: `[15, 6, 15, 15, 15, 15, 15]` (96 contributors)
 
-`analysis/index.html` combines the 2D view and per-cluster metrics. `data/assignments.csv` is the compact row-level result. `data/top30_cluster_prior_selection.json` records every density rank and selected member.
+`analysis/index.html` combines the 2D view, per-cluster metrics, and the active Top-15 prior-selection analysis. The global prior still uses all 287 programs. Cluster priors use the 96 density-selected contributors recorded in `data/top15_cluster_prior_selection.json`; the earlier Top-30 artifact remains as historical evidence.
